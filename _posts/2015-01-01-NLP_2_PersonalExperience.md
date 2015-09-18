@@ -6,7 +6,7 @@ author: "Dawine"
 date: "Saturday, January 09, 2016"
 ---
 
-*Chaque samedi ou dimanche de 8h00AM à 5h00PM au local sis au route village S.0.S # 337*
+*Chaque samedi ou dimanche de 8h00AM à 5h00PM au local de ECSI, sis au route village S.0.S # 337*
 ## Lancer votre carriere dans les Systemes d'Information Geographique.
 *Une série de huit modules développées et enseignées par un spécialiste chevronné en sciences de données*
 <br>
