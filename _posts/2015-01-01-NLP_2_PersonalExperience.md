@@ -276,5 +276,5 @@ $('#aTag7').html('cacher détails module 8 &#9650');
 <div class = "message", style="font-size:70%;color:purple" >
 " GIS stands for geographical information systems. It's basically a way of combining maps and data together to create a holistic view of the world. GIS consists of spatial and aspatial data. Spatial data can
 be located in space and has a geographic reference. It has an X and a Y, address or
-spatial reference. Aspatial data does not contain spatial data.The combination of spatial data andaspatial data is what makes the GIS. "
+spatial reference. Aspatial data does not contain spatial data.The combination of spatial data and aspatial data is what makes the GIS. "
 </div>
