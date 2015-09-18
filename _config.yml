@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:      pygments
+highlighter: true
+
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Dawine Pierre
+tagline:          'Ing. in Rural Engineering, Data Science Specialist, Project Manager'
+description:      'Ing. in Rural Engineering, Data Science Specialist, Project Manager'
+#url:              http://hyde.getpoole.com
+url:              http://ecsi-haiti.com
+baseurl:          /
+
+author:
+  name:           'Dawine Pierre'
+#  url:            https://twitter.com/pdawine
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+
+github:
+#  repo:           https://github.com/poole/hyde
+  me: https://github.com/pdawine
