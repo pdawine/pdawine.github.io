@@ -7,8 +7,8 @@ date: "Saturday, January 09, 2016"
 ---
 
 *Chaque samedi ou dimanche de 8h00AM à 5h00PM au local de ECSI, sis au route village S.0.S # 337*
-## Lancer votre carriere dans les Systemes d'Information Geographique.
-*Une série de huit modules développées et enseignées par un spécialiste chevronné en sciences de données*
+## Lancer votre carrière dans les Systèmes d'Information Géographique.
+*Une série de huit modules développés et enseignés par un spécialiste chevronné en Sciences de Données*
 <br>
 
 <img src="/assets/pictures/NLP_Project2014/2_PExp_BlgTop100-.png" style="width: 800px;" />
