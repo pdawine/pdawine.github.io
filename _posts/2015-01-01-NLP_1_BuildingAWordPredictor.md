@@ -57,5 +57,6 @@ Description and instructions
 5. Resize the text area if you are typing a large document
 6. Type you first word: "I" and see in ranked order the predicted words: *have*, *was*, *am*, *think*, *love* below the text input, in the frequency table and in both charts
 
-
 <img src="/assets/pictures/NLP_Project2014/LetsGetStarted.png" alt="LetsGetStarted" style="width: 720px;"/>
+
+More information for my NLP-Project can be found here: [Building a Word Predictor](http://rpubs.com/pdawine/tm_nlp). If you are looking for the word prediction shiny app I made for the Capstone Project, you can find it here: [A ShinyApp Word Predictor](https://dai2015.shinyapps.io/wordpred)
