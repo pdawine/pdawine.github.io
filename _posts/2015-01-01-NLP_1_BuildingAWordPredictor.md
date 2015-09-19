@@ -39,10 +39,10 @@ This application predicts the next word given a set of words, using a **customiz
 
 The formula of the N-grams probability algorithm is expressed as follows:
 
-$$S(w_i | w_{i-k+1}^{i-1}) =\begin{cases}count(w_{i-k+1}^{i})/count(w_{i-k+1}^{i-1}),  & \text{if } count(w_{i-k+1}^{i})>0    \\[4ex]0.4S(w_i | w_{i-k+2}^{i-1}), & \text{otherwise}\end{cases}  $$
+$$S(w_i | w_{i-k+1}^{i-1}) =\begin{cases}count(w_{i-k+1}^{i})/count(w_{i-k+1}^{i-1}),  & \text{if } count(w_{i-k+1}^{i})>0    \\\\[4ex]0.4S(w_i | w_{i-k+2}^{i-1}), & \text{otherwise}\end{cases}  $$
 
 $$S(w_i|w_{i-1}) = \begin{cases}count(w_{i-1},w_i)/count(w_{i-1}), \text{ }  \text{if } count(w_{i-1})>0, \text{ }\text{and if not }
-\\[4ex]\frac{count(w_{i-1},w_i)}{count(w_{i-1})}, \text{ }  \text{if } count(w_{i-1}) \text{ }\text{has an approximate string matching, otherwise}\end{cases}$$
+\\\\[4ex]\frac{count(w_{i-1},w_i)}{count(w_{i-1})}, \text{ }  \text{if } count(w_{i-1}) \text{ }\text{has an approximate string matching, otherwise}\end{cases}$$
 
 $$S(w_i)=\frac{count(w_i)}{N}$$
 <br>
