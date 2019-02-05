@@ -30,7 +30,8 @@ We will measure impacts of agricultural land use on stream ecosystems of the cof
 *	pastures;
 *	agroforestry;
 *	water;
-*	urban land. 
+*	urban land.
+
 Some of these categories will be further divided to investigate possible differential effects of regional land use practices, such as intensive coffee plantations and agroforests species. 
 
 **1.4 Soil moisture conditions**<br>
