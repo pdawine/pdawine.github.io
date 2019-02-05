@@ -66,7 +66,7 @@ Candidates will be required to study the following compulsory modules:
 <td>Semesters 1 &amp; 2</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5990M">GEOG5990M</a></td>
+<td><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5990M">GEOG5990M</a></td>
 <td>Programming for Geographical Information Analysis: Core Skills</td>
 <td>15 credits</td>
 <td>Semester 1</td>
@@ -219,3 +219,5 @@ Candidates will be required to study 30 credits from the following optional modu
 </tr>
 </tbody>
 </table>
+
+Last updated: 04/10/2018
