@@ -10,7 +10,7 @@ title: About
 <img src="/assets/pictures/self_500x500.jpg" alt="Self" style="width: 300px;"/>
 
 
-Welcome to my pages! I'm Dawine Pierre, or just "Ben" for relatives. I have a diploma in Rural Engineering, a [Specialization in Data Science](https://www.coursera.org/account/accomplishments/specialization/SV2QST3RG45L), 12 GIS certificates from ESRI and ... - I'm a fan of checkers, data, programming, statistics, soccer, and anything for which conception is worthy...
+Welcome to my pages! I'm Dawine Pierre, or just "Ben" for relatives. I have a diploma in Rural Engineering, a [Specialization in Data Science](https://www.coursera.org/account/accomplishments/specialization/SV2QST3RG45L), a license in Software Engineering and ... - I'm a fan of checkers, web programming, statistics, soccer, and anything for which conception is worthy...
 
 ## A little bit about my background
 
@@ -39,7 +39,7 @@ I've published a ton of documents and web applications. Among them I filtered th
 
 For over 6 years I've been the GIS & Database Manager at the [American Red Cross](http://www.redcross.org) and [ACTED](http://www.acted.org). I was involved in projects from their Identification and Design to Evaluation. I had a great enthousiasm in hiring staff, setting up management teams, reporting to financial boards, adjusting conduct policies - it's been an amazingly experience! 
 
-I'm currently involved with an innovative Information System Enterprise [ECSI](http://www.ecsi-haiti.com/) that just launched in 2015, I'm the director - so far it's been hard work and great fun.
+I'm currently involved with an innovative Information System Enterprise [ECSI Geo](http://www.re-s.org/) that just launched in 2015, I'm the director - so far it's been hard work and great fun.
 
 
 ## Getting in contact
