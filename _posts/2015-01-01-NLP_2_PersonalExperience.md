@@ -1,280 +1,221 @@
 ---
-title: 'Formation en SIG'
+title: 'MSc Geographical Information Systems (Part-Time)'
 output: html_document
 layout: post
-author: "Dawine"
-date: "Saturday, January 09, 2016"
+author: "Dawine Pierre"
+date: "Saturday, April 10, 2018"
 ---
 
-*Chaque samedi ou dimanche de 8h00AM à 5h00PM au local de ECSI, sis au route village S.0.S # 337*
-## Lancer votre carrière dans les Systèmes d'Information Géographique.
-*Une série de huit modules développés et enseignés par un spécialiste chevronné en Sciences de Données*
+*MSc Geographical Information Systems (Part-Time)*
+
+<table style="width: 484.5px;">
+<thead>
+<tr>
+<th style="width: 157px;">Programme code:</th>
+<th style="width: 123px;"><strong>Duration:</strong></th>
+<th style="width: 195.5px;"><strong>Programme manager:</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 157px; text-align: center;">MSC-GIS-PT</td>
+<td style="width: 123px; text-align: center;">24 Months</td>
+<td style="width: 195.5px; text-align: center;">Dr Paul Norman</td>
+</tr>
+</tbody>
+</table>
+
+There is a part time version of this programme available (programme code MSC-GIS-PT). Please contact Dr Paul Norman for further information.
+
+## Total credits: 180
+## Entry requirements:
+*Normally at least a good second class honours degree in an appropriate subject (eg Geography, Computer Studies, Geology, Earth Science, Environmental Studies or other appropriate physical/computer science degree).
+Suitable equivalent qualifications would be considered for overseas/mature students, especially those with relevant professional experience*
 <br>
 
-<img src="/assets/pictures/NLP_Project2014/2_PExp_BlgTop100-.png" style="width: 800px;" />
-### Module 1
+## School/Unit responsible for the parenting of students and programme:
+School of Geography Learning and Teaching Committee
 
-**Inroduction aux Systèmes d'information Géographique**
-<a id="aTag0" href="javascript:toggleAndChangeText0();">
-voir détails module 1 &#9660;
-</a>
-<div id="divToToggle0" style="display: none;">
+## Examination board through which the programme will be considered:
+School of Geography Taught Postgraduate Examinations Board
 
-1. Qu'est ce que les SIG
-2. Composantes des SIG
-3. Application des SIG
-4. Couches, relation spatiales et requêtes
-5. Types et mesusre des entités géographiqes
-6. Design cartographique
-7. Données spatiales
-8. Données vecteur
-9. Données raster
-10. Geodatabase
-11. Mesure de la terre
-12. Système de coordonnées
-13. Projections
-14. Projections dans SIG
-15. Edition dans SIG
-16. Géotraitement
-17. Programmation
-18. Procédure SIG
-19. Données SIG
-20. Analyse des données vecteur
-21. Analyse des données raster
-22. Utilsation de ArcMap dans Arc
+## Programme specification:
+The programme will: 
+- focus on scientific, technical and computational aspects of Geographical Information Systems (GIS) and Geographical 
+Information Science (GIScience) with particular reference to the socio-economic sciences; 
+- offer opportunities for personal and professional development through study skills and software training, short-term placements with academics and external organisations, attendance at seminar and conference events.
+- complement other Masters (PGT)/PGDip/PGCert programmes given within the School; 
+- provide flexibility in student learning through provision of full and part-time study modes and substitution of face-to- 
+face modules with ODL modules where appropriate to student needs; 
+- incorporate flexible and student-centred electronic learning resources as appropriate; 
+- provide an advanced level of training in research methods in line with ESRC requirements and thus enable students to move into research for a Ph.D.; 
+- attract good Geography, Economics, Business Studies and other social science students;
+- provide a source of highly qualified and motivated students for employers in the GIS/GIScience sector with whom such 
+skills are in high demand.
 
-</div>
+## Year1
+## Compulsory modules:
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText0() {
-$('#divToToggle0').toggle();
-if ($('#divToToggle0').css('display') == 'none') {
-$('#aTag0').html('voir détails module 1 &#9660');
-}
-else {
-$('#aTag0').html('cacher détails module 1 &#9650');
-}
-}
-</script>
+Candidates will be required to study the following compulsory modules:
+<table>
+<tbody>
+<tr>
+<td><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5022M">GEOG5022M</a></td>
+<td>Professional &amp; Personal Development</td>
+<td>30 credits</td>
+<td>Semesters 1 &amp; 2</td>
+</tr>
+<tr>
+<td>&nbsp;<a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5990M">GEOG5990M</a></td>
+<td>Programming for Geographical Information Analysis: Core Skills</td>
+<td>15 credits</td>
+<td>Semester 1</td>
+</tr>
+</tbody>
+</table>
 
-### Module 2
+## Optional modules:
 
-**Utilisation de ArcMap dans ArcGIS Desktop**
-<a id="aTag1" href="javascript:toggleAndChangeText1();">
-voir détails module 2 &#9660;
-</a>
-<div id="divToToggle1" style="display: none;">
+Candidates will be required to study 15 credits from the following optional modules:
+<table>
+<tbody>
+<tr style="height: 2px;">
+<td style="height: 2px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5060M">GEOG5060M</a></td>
+<td style="height: 2px;">GIS and Environment</td>
+<td style="height: 2px;">15 credits</td>
+<td style="height: 2px;">Semester 2</td>
+</tr>
+<tr style="height: 10px;">
+<td style="height: 10px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5255M">GEOG5255M</a></td>
+<td style="height: 10px;">Geodemographics and Neighbourhood Analysis</td>
+<td style="height: 10px;">15 credits</td>
+<td style="height: 10px;">Semester 2</td>
+</tr>
+<tr style="height: 11px;">
+<td style="height: 11px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5710M">GEOG5710M</a></td>
+<td style="height: 11px;">Digital Image Processing for Environmental Remote Sensing</td>
+<td style="height: 11px;">15 credits</td>
+<td style="height: 11px;">Semester 2</td>
+</tr>
+<tr style="height: 4px;">
+<td style="height: 4px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5790M">GEOG5790M</a></td>
+<td style="height: 4px;">Programming for Geographical Information Analysis: Advanced Skills</td>
+<td style="height: 4px;">15 credits</td>
+<td style="height: 4px;">Semester 2</td>
+</tr>
+<tr style="height: 16px;">
+<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5830M">GEOG5830M</a></td>
+<td style="height: 16px;">Environmental Assessment</td>
+<td style="height: 16px;">15 credits</td>
+<td style="height: 16px;">Semester 2</td>
+</tr>
+<tr style="height: 9px;">
+<td style="height: 9px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5870M">GEOG5870M</a></td>
+<td style="height: 9px;">Web-based GIS</td>
+<td style="height: 9px;">15 credits</td>
+<td style="height: 9px;">Semester 2</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5917M">GEOG5917M</a></td>
+<td style="height: 13px;">Big Data and Consumer Analytics</td>
+<td style="height: 13px;">15 credits</td>
+<td style="height: 13px;">Semester 2</td>
+</tr>
+<tr style="height: 16px;">
+<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5937M">GEOG5937M</a></td>
+<td style="height: 16px;">Applied GIS and Retail Modelling</td>
+<td style="height: 16px;">15 credits</td>
+<td style="height: 16px;">Semester 2</td>
+</tr>
+</tbody>
+</table>
 
-1. What is GIS?
-2. What is GIS data?
-3. Navigating a GIS map
-4. Finding information
-5. Explore functionality in arcmap 10
+## Year2
+## Compulsory modules:
 
-</div>
+Candidates will be required to study the following compulsory modules
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText1() {
-$('#divToToggle1').toggle();
-if ($('#divToToggle1').css('display') == 'none') {
-$('#aTag1').html('voir détails module 2 &#9660');
-}
-else {
-$('#aTag1').html('cacher détails module 2 &#9650');
-}
-}
-</script>
+<table>
+<tbody>
+<tr style="height: 2px;">
+<td style="height: 2px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5032M">GEOG5032M</a></td>
+<td style="height: 2px;">GIS Data Visualisation &amp; Analysis</td>
+<td style="height: 2px;">30 credits</td>
+<td style="height: 2px;">Semester 1</td>
+</tr>
+<tr style="height: 10px;">
+<td style="height: 10px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5160M">GEOG5160M</a></td>
+<td style="height: 10px;">Dissertation (GIScience)</td>
+<td style="height: 10px;">60 credits</td>
+<td style="height: 10px;">1 Mar to 31 Aug</td>
+</tr>
+<tr style="height: 11px;">
+<td style="height: 11px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5710M">GEOG5710M</a></td>
+<td style="height: 11px;">Digital Image Processing for Environmental Remote Sensing</td>
+<td style="height: 11px;">15 credits</td>
+<td style="height: 11px;">Semester 2</td>
+</tr>
+</tbody>
+</table>
 
-### Module 3
+## Optional modules:
+Candidates will be required to study 30 credits from the following optional modules.
 
-**Basiques des Systèmes de coordonnées géographiques**
-<a id="aTag2" href="javascript:toggleAndChangeText2();">
-voir détails module 3 &#9660;
-</a>
-<div id="divToToggle2" style="display: none;">
-
-1. The shape of the Earth
-   + The earth's shape is an ellipsoid
-   + The earth's shape is an spheroid
-   + Why do we need different spheroids?
-   + When to use a sphere
-2. Establishing location
-   + Creating the graticule
-   + Locating features from north to south
-   + Locating features from east to west
-   + Decimal degrees
-
-</div>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText2() {
-$('#divToToggle2').toggle();
-if ($('#divToToggle2').css('display') == 'none') {
-$('#aTag2').html('voir détails module 3 &#9660');
-}
-else {
-$('#aTag2').html('cacher détails module 3 &#9650');
-}
-}
-</script>
-
-### Module 4
-
-**Collection et édition de données**
-<a id="aTag3" href="javascript:toggleAndChangeText3();">
-voir détails module 4 &#9660;
-</a>
-<div id="divToToggle3" style="display: none;">
-
-1. Editing tools
-2. Geocoding
-3. Design web form with excel 
-4. Tracklogs with Garmin and OSMand
-
-
-</div>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText3() {
-$('#divToToggle3').toggle();
-if ($('#divToToggle3').css('display') == 'none') {
-$('#aTag3').html('voir détails module 4 &#9660');
-}
-else {
-$('#aTag3').html('cacher détails module 4 &#9650');
-}
-}
-</script>
-
-
-### Module 5
-
-**Transformer des données en information**
-<a id="aTag4" href="javascript:toggleAndChangeText4();">
-voir détails module 5 &#9660;
-</a>
-<div id="divToToggle4" style="display: none;">
-
-1. Basics of Data and Information 
-2. Cartography, Map Production, and Geovisualization 
-3. Query and Measurement 
-4. Transformations and Descriptive Summaries 
-5. Optimization and Hypothesis Testing 
-6. Uncertainty 
-
-</div>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText4() {
-$('#divToToggle4').toggle();
-if ($('#divToToggle4').css('display') == 'none') {
-$('#aTag4').html('voir détails module 5 &#9660');
-}
-else {
-$('#aTag4').html('cacher détails module 5 &#9650');
-}
-}
-</script>
-
-### Module 6
-
-**Utilisation du SIG dans les actions humanitaires**
-<a id="aTag5" href="javascript:toggleAndChangeText5();">
-voir détails module 6 &#9660;
-</a>
-<div id="divToToggle5" style="display: none;">
-
-1. Data types and data exploration 
-2. Remotely sensed data
-3. Symbols and symbol styles
-4. Principles of map design 
-5. Coordinate systems and map projections 
-6. Georeferencing and digitizing 
-7. Using vector data in ArcMap 
-8. Using raster data in ArcMap 
-
-</div>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText5() {
-$('#divToToggle5').toggle();
-if ($('#divToToggle5').css('display') == 'none') {
-$('#aTag5').html('voir détails module 6 &#9660');
-}
-else {
-$('#aTag5').html('cacher détails module 6 &#9650');
-}
-}
-</script>
-
-### Module 7
-
-**Utilisation de Python dans ArcGIS 10**
-<a id="aTag6" href="javascript:toggleAndChangeText6();">
-voir détails module 7 &#9660;
-</a>
-<div id="divToToggle6" style="display: none;">
-
-1. Where to start?
-2. Creating scripts
-3. Python in ArcGIS
-4. Creating Python Toolboxes
-5. Add-ins
-5. Handling errors
-
-</div>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText6() {
-$('#divToToggle6').toggle();
-if ($('#divToToggle6').css('display') == 'none') {
-$('#aTag6').html('voir détails module 7 &#9660');
-}
-else {
-$('#aTag6').html('cacher détails module 7 &#9650');
-}
-}
-</script>
-
-### Module 8
-
-**Analyse spatiale avec ArcGIS**
-<a id="aTag7" href="javascript:toggleAndChangeText7();">
-voir détails module 8 &#9660;
-</a>
-<div id="divToToggle7" style="display: none;">
-
-1. Managing Imagery
-2. Visualizing and Analyzing Imagery
-3. Working with lidar data
-4. Using Regression Analysis to Explore Why
-5. Sharing Analysis Workflows Using Geoprocessing Packages
-
-</div>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleAndChangeText7() {
-$('#divToToggle7').toggle();
-if ($('#divToToggle7').css('display') == 'none') {
-$('#aTag7').html('voir détails module 8 &#9660');
-}
-else {
-$('#aTag7').html('cacher détails module 8 &#9650');
-}
-}
-</script>
-
-
-<div class = "message", style="font-size:70%;color:purple" >
-" GIS stands for geographical information systems. It's basically a way of combining maps and data together to create a holistic view of the world. GIS consists of spatial and aspatial data. Spatial data can
-be located in space and has a geographic reference. It has an X and a Y, address or
-spatial reference. Aspatial data does not contain spatial data.The combination of spatial data and aspatial data is what makes the GIS. "
-</div>
+<table>
+<tbody>
+<tr style="height: 2px;">
+<td style="height: 2px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5060M">GEOG5060M</a></td>
+<td style="height: 2px;">GIS and Environment</td>
+<td style="height: 2px;">15 credits</td>
+<td style="height: 2px;">Semester 2</td>
+</tr>
+<tr style="height: 10px;">
+<td style="height: 10px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5255M">GEOG5255M</a></td>
+<td style="height: 10px;">Geodemographics and Neighbourhood Analysis</td>
+<td style="height: 10px;">15 credits</td>
+<td style="height: 10px;">Semester 2</td>
+</tr>
+<tr style="height: 11px;">
+<td style="height: 11px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5710M">GEOG5710M</a></td>
+<td style="height: 11px;">Digital Image Processing for Environmental Remote Sensing</td>
+<td style="height: 11px;">15 credits</td>
+<td style="height: 11px;">Semester 2</td>
+</tr>
+<tr style="height: 4px;">
+<td style="height: 4px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5790M">GEOG5790M</a></td>
+<td style="height: 4px;">Programming for Geographical Information Analysis: Advanced Skills</td>
+<td style="height: 4px;">15 credits</td>
+<td style="height: 4px;">Semester 2</td>
+</tr>
+<tr style="height: 16px;">
+<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5830M">GEOG5830M</a></td>
+<td style="height: 16px;">Environmental Assessment</td>
+<td style="height: 16px;">15 credits</td>
+<td style="height: 16px;">Semester 2</td>
+</tr>
+<tr style="height: 9px;">
+<td style="height: 9px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5851M">GEOG5851M</a></td>
+<td style="height: 9px;">Applied GIS and Retail Modelling (WUN)</td>
+<td style="height: 9px;">15 credits</td>
+<td style="height: 9px;">Semester 2</td>
+</tr>
+<tr style="height: 13px;">
+<td style="height: 13px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5870M">GEOG5870M</a></td>
+<td style="height: 13px;">Web-based GIS</td>
+<td style="height: 13px;">15 credits</td>
+<td style="height: 13px;">Semester 2</td>
+</tr>
+<tr style="height: 17px;">
+<td style="height: 17px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5917M">GEOG5917M</a></td>
+<td style="height: 17px;">Big Data and Consumer Analytics</td>
+<td style="height: 17px;">15 credits</td>
+<td style="height: 17px;">Semester 2</td>
+</tr>
+<tr style="height: 16px;">
+<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5937M">GEOG5937M</a></td>
+<td style="height: 16px;">Applied GIS and Retail Modelling</td>
+<td style="height: 16px;">&nbsp;15 credits</td>
+<td style="height: 16px;">&nbsp;Semester 2</td>
+</tr>
+</tbody>
+</table>
