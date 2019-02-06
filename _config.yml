@@ -12,9 +12,15 @@ relative_permalinks: true
 
 # Setup
 title:            Dawine Pierre
-tagline:          'Ing. in Rural Engineering, Data Scientist, 
+tagline:          'Ing. in Rural Engineering, 
+                   
+                   Data Scientist, 
+                   
                    GIS Specialist'
-description:      'Ing. in Rural Engineering, Data Scientist, 
+description:      'Ing. in Rural Engineering, 
+                   
+                   Data Scientist, 
+                   
                    GIS Specialist'
 url:              http://pdawine.github.io
 baseurl:          /
