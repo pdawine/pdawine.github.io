@@ -11,8 +11,8 @@ relative_permalinks: false
 
 # Setup
 title:            Dawine Pierre
-tagline:          'Ing. in Rural Engineering, Data Science Specialist, Project Manager'
-description:      'Ing. in Rural Engineering, Data Science Specialist, Project Manager'
+tagline:          'Ing. in Rural Engineering, Data Scientist, GIS Specialist'
+description:      'Ing. in Rural Engineering, Data Scientist, GIS Specialist'
 #url:              http://hyde.getpoole.com
 url:              http://pdawine.github.io
 baseurl:          /
@@ -29,4 +29,4 @@ version:          1.0.0
 
 github:
 #  repo:           https://github.com/poole/hyde
-  me: https://github.com/pdawine
+me: https://github.com/pdawine
