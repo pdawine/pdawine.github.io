@@ -7,7 +7,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Dawine Pierre
@@ -23,8 +22,6 @@ author:
 paginate:         5
 
 plugins: [jekyll-paginate]
-paginate_path: "page:num"
-
 
 # Custom vars
 version:          2.1.0
