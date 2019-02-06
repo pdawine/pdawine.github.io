@@ -11,9 +11,10 @@ relative_permalinks: false
 
 # Setup
 title:            Dawine Pierre
-tagline:          'Ing. in Rural Engineering, Data Scientist, GIS Specialist'
-description:      'Ing. in Rural Engineering, Data Scientist, GIS Specialist'
-#url:              http://hyde.getpoole.com
+tagline:          'Ing. in Rural Engineering, Data Scientist, 
+                   GIS Specialist'
+description:      'Ing. in Rural Engineering, Data Scientist, 
+                   GIS Specialist'
 url:              http://pdawine.github.io
 baseurl:          /
 
