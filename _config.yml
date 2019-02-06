@@ -3,11 +3,12 @@ markdown:         redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter:      pygments
+highlighter: true
 
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
+relative_permalinks: true
 
 # Setup
 title:            Dawine Pierre
@@ -25,7 +26,7 @@ author:
 paginate:         1
 
 # Custom vars
-version:          1.0.0
+version:          2.1.0
 
 
 github:
