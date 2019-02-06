@@ -10,16 +10,8 @@ permalink:        pretty
 
 # Setup
 title:            Dawine Pierre
-tagline:          'Ing. in Rural Engineering, 
-                   
-                   Data Scientist, 
-                   
-                   GIS Specialist'
-description:      'Ing. in Rural Engineering, 
-                   
-                   Data Scientist, 
-                   
-                   GIS Specialist'
+tagline:          'Ing., Data Scientist, GIS Specialist'
+description:      'Ing., Data Scientist, GIS Specialist'
 url:              http://pdawine.github.io
 baseurl:          /
 
@@ -27,7 +19,9 @@ author:
   name:           'Dawine Pierre'
 #  url:            https://twitter.com/pdawine
 
-paginate:         1
+paginate:         5
+
+gems: [jekyll-paginate]
 
 # Custom vars
 version:          2.1.0
