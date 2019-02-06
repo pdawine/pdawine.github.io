@@ -12,7 +12,7 @@ permalink:        pretty
 title:            Dawine Pierre
 tagline:          'Ing., Data Scientist, GIS Specialist'
 description:      'Ing., Data Scientist, GIS Specialist'
-url:              http://pdawine.github.io
+url:              http://re-s.org/
 baseurl:          /
 
 author:
@@ -22,11 +22,12 @@ author:
 paginate:         5
 
 gems: [jekyll-paginate]
+paginate_path: "page:num"
+
 
 # Custom vars
 version:          2.1.0
 
 
 github:
-#  repo:           https://github.com/poole/hyde
 me: https://github.com/pdawine
