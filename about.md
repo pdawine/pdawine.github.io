@@ -16,7 +16,7 @@ Welcome to my pages! I'm Dawine Pierre, or just "Ben" for relatives. I have a di
 
 Born in Terrier-rouge, Haiti in 1976 to parents irresponsible, I spent all my childhood years in Cap-Haïtien with my aunt and the bulk of the rest of my professional career in Port-au-Prince.
 
-< "Life is thick sown with thorns. there's no other way than to pass quicklty through them, the longer you dwell on your misfortune, the greater is its power to harm you."
+< Life is thick sown with thorns. there's no other way than to pass quicklty through them, the longer you dwell on your misfortune, the greater is its power to harm you.
 
 
 ## Teaching
