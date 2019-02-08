@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Dawine Pierre
+title: About
 ---
 
+### Dawine Pierre
 <!--
 	![A picture of me](/assets/pictures/self_500x500.jpg)
 -->
