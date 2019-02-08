@@ -4,7 +4,7 @@ title: Coffe Information System
 ---
 
 <div class="message">
-<strong>Objective</strong>
+<strong>Objective:</strong>
 Establishment of a coffee information system to provide farmers and stakeholders appropriate on-line tools and data to make better farming, marketing, and business (credit) decisions, marketing up to date information.  The project will include 3 major components: 
 </div><br>
 
