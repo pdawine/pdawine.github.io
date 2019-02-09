@@ -33,7 +33,7 @@ Some of the projects and web-based applications I have published are as follows:
 * [North Land Data Management System](https://avanse.shinyapps.io/shiny-server/)
 * [Development and application of GIS for watershed metrics in Haiti northern corridor](https://dai0-my.sharepoint.com/:b:/g/personal/dawine_pierre_dai_com/EZ4uRh3gQppAinozHUMUxX8B0pzZCzqslkg5Q4bgERm3og?e=9Xq5Zx)
 * [Natural language processing and text mining for words prediction](http://rpubs.com/pdawine/tm_nlp)
-* [Analysis of rice Gross margin per hectare in Northern corridor](https://dai0-my.sharepoint.com/:b:/g/personal/dawine_pierre_dai_com/EZl8RIkMlIFCrHycScy3IosBbKksixPYtWOkZxwNskUP0Q?e=O3ug0J)
+* [Analysis of rice Gross margin per hectare in Northern corridor](https://dai0-my.sharepoint.com/:b:/g/personal/dawine_pierre_dai_com/Ebqm9XHFARpEjpXGJskJ9bgBWBKOjX7X0WWWRZbuCzLabQ?e=w7Zpbh)
 
 ## Working with and setting up start-ups
 
