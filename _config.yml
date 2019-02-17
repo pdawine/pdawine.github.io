@@ -17,7 +17,7 @@ baseurl:          /pdawine.github.io/
 
 author:
   name:           'Dawine Pierre'
-#  url:            https://twitter.com/pdawine
+  url:            https://twitter.com/pdawine
 
 paginate:         5
 
