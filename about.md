@@ -28,8 +28,8 @@ I've have been at UNCNH and UPH during one year, teaching the sciences of Climat
 
 Some of the projects and web-based applications I have published are as follows: 
 
-* [Evaluation du système d’irrigation du périmètre MERLAINE de St Raphaël](https://www.dropbox.com/s/zngiaidei83zqkq/Dawine_undergraduate_dissertation.pdf?dl=0)
-* [Système de traçabilité de mangues francisques dans l’ouest](https://agritech.shinyapps.io/systra)
+* [MERLAINE irrigated land system assessment in St Raphaël commune](https://www.dropbox.com/s/zngiaidei83zqkq/Dawine_undergraduate_dissertation.pdf?dl=0)
+* [Traceability System of Mango 'Francisque' variety in West](https://agritech.shinyapps.io/systra)
 * [North Land Data Management System](https://avanse.shinyapps.io/shiny-server/)
 * [Development and application of GIS for watershed metrics in Haiti northern corridor](https://dai0-my.sharepoint.com/:b:/g/personal/dawine_pierre_dai_com/EZ4uRh3gQppAinozHUMUxX8B0pzZCzqslkg5Q4bgERm3og?e=9Xq5Zx)
 * [Natural language processing and text mining for words prediction](http://rpubs.com/pdawine/tm_nlp)
