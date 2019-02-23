@@ -306,4 +306,4 @@ Candidates will be required to study the following compulsory modules
 </tbody>
 </table>
 
-Last updated: 04/10/2017
+
