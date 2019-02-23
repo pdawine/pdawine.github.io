@@ -29,7 +29,7 @@ There is a part time version of this programme available (programme code BS-RE-P
 
 ## Total credits: 42
 ## Entry requirements:
-*Normally at least 3 years agriculture science degree from "Faculté d'Agronomie et de Médecine Vétérinaire" and prerequisites in mathematics and sciences are required, which students have to take in their first three years at FAMV.   
+*Normally at least 3 years agriculture science degree from "Faculté d'Agronomie et de Médecine Vétérinaire" and prerequisites in mathematics and sciences are required, which students have to take in their first three years at FAMV.*  
 <br>
 
 
@@ -184,121 +184,121 @@ Candidates will be required to study the following compulsory modules
 <table>
 <tbody>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR01</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR23</a></td>
 <td>Am&eacute;lioration des sols</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR02</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR24</a></td>
 <td>Am&eacute;nagement des bassins versants</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR03</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR25</a></td>
 <td>Am&eacute;nagement et implantation des parcs</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR04</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR26</a></td>
 <td>B&eacute;ton arm&eacute; I &amp; II</td>
 <td>48 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR05</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR27</a></td>
 <td>Construction II</td>
 <td>48 hours</td>
 <td>Session 2</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR06</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR28</a></td>
 <td>Digues et Barrages</td>
 <td>48 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR07</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR29</a></td>
 <td>Drainage II</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR08</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR30</a></td>
 <td>Ecoulement en milieu poreux</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR09</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR31</a></td>
 <td>Elaboration &amp; evaluation de projets</td>
 <td>48 hours</td>
 <td>Session 2</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR10</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR32</a></td>
 <td>Electrification rurale</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR11</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR33</a></td>
 <td>Gestion des exploitations agricoles</td>
 <td>48 hours</td>
 <td>Session 2</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR12</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR34</a></td>
 <td>Gestion des petits p&eacute;rim&egrave;tres irrigu&eacute;s</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR13</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR35</a></td>
 <td>Hydraulique fluviale</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR14</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR36</a></td>
 <td>Hydrog&eacute;ologie</td>
 <td>48 hours</td>
 <td>Session 2</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR15</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR37</a></td>
 <td>Irrigation II</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR16</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR38</a></td>
 <td>Le froid en agriculture</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR17</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR39</a></td>
 <td>March&eacute; des produits agricoles</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR18</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR40</a></td>
 <td>Routes agricoles</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR19</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR41</a></td>
 <td>Stage diagnostic</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
 <tr>
-<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR20</a></td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR42</a></td>
 <td>Technologie du bois</td>
 <td>48 hours</td>
 <td>Session 2</td>
