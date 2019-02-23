@@ -55,7 +55,7 @@ Candidates will be required to study the following compulsory modules:
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR03</a></td>
 <td>Dessin technique</td>
-<td>48 hours</td>
+<td>96 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Candidates will be required to study the following compulsory modules:
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR06</a></td>
 <td>Electritcit&eacute; et Electronique</td>
-<td>48 hours</td>
+<td>96 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ Candidates will be required to study the following compulsory modules:
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR10</a></td>
 <td>Informatique II</td>
-<td>48 hours</td>
+<td>96 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ Candidates will be required to study the following compulsory modules
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR26</a></td>
 <td>B&eacute;ton arm&eacute; I &amp; II</td>
-<td>48 hours</td>
+<td>96 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ Candidates will be required to study the following compulsory modules
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR28</a></td>
 <td>Digues et Barrages</td>
-<td>48 hours</td>
+<td>96 hours</td>
 <td>Session 1 &amp; 2</td>
 </tr>
 <tr>
