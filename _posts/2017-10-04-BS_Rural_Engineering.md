@@ -29,30 +29,10 @@ There is a part time version of this programme available (programme code BS-RE-P
 
 ## Total credits: 42
 ## Entry requirements:
-*Normally at least 3 years agriculture science degree in an appropriate subject (eg Geography, Computer Studies, Geology, Earth Science,
-Environmental Studies or other appropriate physical/computer science degree).
-Suitable equivalent qualifications would be considered for overseas/mature students, especially those with relevant professional experience*
+*Normally at least 3 years agriculture science degree from "Faculté d'Agronomie et de Médecine Vétérinaire" and prerequisites in mathematics and sciences are required, which students have to take in their first three years at FAMV.   
 <br>
 
-## School/Unit responsible for the parenting of students and programme:
-School of Geography Learning and Teaching Committee
 
-## Examination board through which the programme will be considered:
-School of Geography Taught Postgraduate Examinations Board
-
-## Programme specification:
-The programme will: 
-- focus on scientific, technical and computational aspects of Geographical Information Systems (GIS) and Geographical 
-Information Science (GIScience) with particular reference to the socio-economic sciences; 
-- offer opportunities for personal and professional development through study skills and software training, short-term placements with academics and external organisations, attendance at seminar and conference events.
-- complement other Masters (PGT)/PGDip/PGCert programmes given within the School; 
-- provide flexibility in student learning through provision of full and part-time study modes and substitution of face-to- 
-face modules with ODL modules where appropriate to student needs; 
-- incorporate flexible and student-centred electronic learning resources as appropriate; 
-- provide an advanced level of training in research methods in line with ESRC requirements and thus enable students to move into research for a Ph.D.; 
-- attract good Geography, Economics, Business Studies and other social science students;
-- provide a source of highly qualified and motivated students for employers in the GIS/GIScience sector with whom such 
-skills are in high demand.
 
 ## Year1
 ## Compulsory modules:
@@ -61,75 +41,140 @@ Candidates will be required to study the following compulsory modules:
 <table>
 <tbody>
 <tr>
-<td><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5022M">GEOG5022M</a></td>
-<td>Professional &amp; Personal Development</td>
-<td>30 credits</td>
-<td>Semesters 1 &amp; 2</td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR01</a></td>
+<td>Analyse num&eacute;rique</td>
+<td>48 hours</td>
+<td>Session 1 &amp; 2</td>
 </tr>
 <tr>
-<td><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5990M">GEOG5990M</a></td>
-<td>Programming for Geographical Information Analysis: Core Skills</td>
-<td>15 credits</td>
-<td>Semester 1</td>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR02</a></td>
+<td>Compl&eacute;ent d'hydrologie</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR03</a></td>
+<td>Dessin technique</td>
+<td>48 hours</td>
+<td>Session 1 &amp; 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR04</a></td>
+<td>Ecoulement &agrave; surface libre</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR05</a></td>
+<td>Ecoulement en charge</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR06</a></td>
+<td>Electritcit&eacute; et Electronique</td>
+<td>48 hours</td>
+<td>Session 1 &amp; 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR07</a></td>
+<td>G&eacute;ologie de l'Ing&eacute;nieur</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR08</a></td>
+<td>G&eacute;othechnique</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR09</a></td>
+<td>Gestion des d&eacute;chets</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR10</a></td>
+<td>Informatique II</td>
+<td>48 hours</td>
+<td>Session 1 &amp; 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR11</a></td>
+<td>Laboratoire d'hydraulique</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR12</a></td>
+<td>Math&eacute;matiques de l'Ing&eacute;nieur</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR13</a></td>
+<td>M&eacute;canique des fluides</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR14</a></td>
+<td>Ph&eacute;nom&egrave;ne de transfert</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR15</a></td>
+<td>Recherche op&eacute;rationnelle</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR16</a></td>
+<td>R&eacute;sistance des mat&eacute;riaux</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR17</a></td>
+<td>Stage en exploitation agricole</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR18</a></td>
+<td>Statique et r&eacute;sistance des mat&eacute;riaux</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR19</a></td>
+<td>Technique de pr&eacute;paration de m&eacute;moire</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR20</a></td>
+<td>Thermodynamique</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR21</a></td>
+<td>Traitement des eaux</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR22</a></td>
+<td>Travaux pratiques d'irrigation</td>
+<td>48 hours</td>
+<td>Session 1</td>
 </tr>
 </tbody>
 </table>
 
-## Optional modules:
-
-Candidates will be required to study 15 credits from the following optional modules:
-<table>
-<tbody>
-<tr style="height: 2px;">
-<td style="height: 2px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5060M">GEOG5060M</a></td>
-<td style="height: 2px;">GIS and Environment</td>
-<td style="height: 2px;">15 credits</td>
-<td style="height: 2px;">Semester 2</td>
-</tr>
-<tr style="height: 10px;">
-<td style="height: 10px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5255M">GEOG5255M</a></td>
-<td style="height: 10px;">Geodemographics and Neighbourhood Analysis</td>
-<td style="height: 10px;">15 credits</td>
-<td style="height: 10px;">Semester 2</td>
-</tr>
-<tr style="height: 11px;">
-<td style="height: 11px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5710M">GEOG5710M</a></td>
-<td style="height: 11px;">Digital Image Processing for Environmental Remote Sensing</td>
-<td style="height: 11px;">15 credits</td>
-<td style="height: 11px;">Semester 2</td>
-</tr>
-<tr style="height: 4px;">
-<td style="height: 4px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5790M">GEOG5790M</a></td>
-<td style="height: 4px;">Programming for Geographical Information Analysis: Advanced Skills</td>
-<td style="height: 4px;">15 credits</td>
-<td style="height: 4px;">Semester 2</td>
-</tr>
-<tr style="height: 16px;">
-<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5830M">GEOG5830M</a></td>
-<td style="height: 16px;">Environmental Assessment</td>
-<td style="height: 16px;">15 credits</td>
-<td style="height: 16px;">Semester 2</td>
-</tr>
-<tr style="height: 9px;">
-<td style="height: 9px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5870M">GEOG5870M</a></td>
-<td style="height: 9px;">Web-based GIS</td>
-<td style="height: 9px;">15 credits</td>
-<td style="height: 9px;">Semester 2</td>
-</tr>
-<tr style="height: 13px;">
-<td style="height: 13px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5917M">GEOG5917M</a></td>
-<td style="height: 13px;">Big Data and Consumer Analytics</td>
-<td style="height: 13px;">15 credits</td>
-<td style="height: 13px;">Semester 2</td>
-</tr>
-<tr style="height: 16px;">
-<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5937M">GEOG5937M</a></td>
-<td style="height: 16px;">Applied GIS and Retail Modelling</td>
-<td style="height: 16px;">15 credits</td>
-<td style="height: 16px;">Semester 2</td>
-</tr>
-</tbody>
-</table>
 
 ## Year2
 ## Compulsory modules:
@@ -138,87 +183,127 @@ Candidates will be required to study the following compulsory modules
 
 <table>
 <tbody>
-<tr style="height: 2px;">
-<td style="height: 2px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5032M">GEOG5032M</a></td>
-<td style="height: 2px;">GIS Data Visualisation &amp; Analysis</td>
-<td style="height: 2px;">30 credits</td>
-<td style="height: 2px;">Semester 1</td>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR01</a></td>
+<td>Am&eacute;lioration des sols</td>
+<td>48 hours</td>
+<td>Session 1</td>
 </tr>
-<tr style="height: 10px;">
-<td style="height: 10px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5160M">GEOG5160M</a></td>
-<td style="height: 10px;">Dissertation (GIScience)</td>
-<td style="height: 10px;">60 credits</td>
-<td style="height: 10px;">1 Mar to 31 Aug</td>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR02</a></td>
+<td>Am&eacute;nagement des bassins versants</td>
+<td>48 hours</td>
+<td>Session 1</td>
 </tr>
-<tr style="height: 11px;">
-<td style="height: 11px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5710M">GEOG5710M</a></td>
-<td style="height: 11px;">Digital Image Processing for Environmental Remote Sensing</td>
-<td style="height: 11px;">15 credits</td>
-<td style="height: 11px;">Semester 2</td>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR03</a></td>
+<td>Am&eacute;nagement et implantation des parcs</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR04</a></td>
+<td>B&eacute;ton arm&eacute; I &amp; II</td>
+<td>48 hours</td>
+<td>Session 1 &amp; 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR05</a></td>
+<td>Construction II</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR06</a></td>
+<td>Digues et Barrages</td>
+<td>48 hours</td>
+<td>Session 1 &amp; 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR07</a></td>
+<td>Drainage II</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR08</a></td>
+<td>Ecoulement en milieu poreux</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR09</a></td>
+<td>Elaboration &amp; evaluation de projets</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR10</a></td>
+<td>Electrification rurale</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR11</a></td>
+<td>Gestion des exploitations agricoles</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR12</a></td>
+<td>Gestion des petits p&eacute;rim&egrave;tres irrigu&eacute;s</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR13</a></td>
+<td>Hydraulique fluviale</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR14</a></td>
+<td>Hydrog&eacute;ologie</td>
+<td>48 hours</td>
+<td>Session 2</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR15</a></td>
+<td>Irrigation II</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR16</a></td>
+<td>Le froid en agriculture</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR17</a></td>
+<td>March&eacute; des produits agricoles</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR18</a></td>
+<td>Routes agricoles</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR19</a></td>
+<td>Stage diagnostic</td>
+<td>48 hours</td>
+<td>Session 1</td>
+</tr>
+<tr>
+<td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR20</a></td>
+<td>Technologie du bois</td>
+<td>48 hours</td>
+<td>Session 2</td>
 </tr>
 </tbody>
 </table>
 
-## Optional modules:
-Candidates will be required to study 30 credits from the following optional modules.
-
-<table>
-<tbody>
-<tr style="height: 2px;">
-<td style="height: 2px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5060M">GEOG5060M</a></td>
-<td style="height: 2px;">GIS and Environment</td>
-<td style="height: 2px;">15 credits</td>
-<td style="height: 2px;">Semester 2</td>
-</tr>
-<tr style="height: 10px;">
-<td style="height: 10px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5255M">GEOG5255M</a></td>
-<td style="height: 10px;">Geodemographics and Neighbourhood Analysis</td>
-<td style="height: 10px;">15 credits</td>
-<td style="height: 10px;">Semester 2</td>
-</tr>
-<tr style="height: 11px;">
-<td style="height: 11px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5710M">GEOG5710M</a></td>
-<td style="height: 11px;">Digital Image Processing for Environmental Remote Sensing</td>
-<td style="height: 11px;">15 credits</td>
-<td style="height: 11px;">Semester 2</td>
-</tr>
-<tr style="height: 4px;">
-<td style="height: 4px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5790M">GEOG5790M</a></td>
-<td style="height: 4px;">Programming for Geographical Information Analysis: Advanced Skills</td>
-<td style="height: 4px;">15 credits</td>
-<td style="height: 4px;">Semester 2</td>
-</tr>
-<tr style="height: 16px;">
-<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5830M">GEOG5830M</a></td>
-<td style="height: 16px;">Environmental Assessment</td>
-<td style="height: 16px;">15 credits</td>
-<td style="height: 16px;">Semester 2</td>
-</tr>
-<tr style="height: 9px;">
-<td style="height: 9px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5851M">GEOG5851M</a></td>
-<td style="height: 9px;">Applied GIS and Retail Modelling (WUN)</td>
-<td style="height: 9px;">15 credits</td>
-<td style="height: 9px;">Semester 2</td>
-</tr>
-<tr style="height: 13px;">
-<td style="height: 13px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5870M">GEOG5870M</a></td>
-<td style="height: 13px;">Web-based GIS</td>
-<td style="height: 13px;">15 credits</td>
-<td style="height: 13px;">Semester 2</td>
-</tr>
-<tr style="height: 17px;">
-<td style="height: 17px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5917M">GEOG5917M</a></td>
-<td style="height: 17px;">Big Data and Consumer Analytics</td>
-<td style="height: 17px;">15 credits</td>
-<td style="height: 17px;">Semester 2</td>
-</tr>
-<tr style="height: 16px;">
-<td style="height: 16px;"><a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201819&amp;F=P&amp;M=GEOG-5937M">GEOG5937M</a></td>
-<td style="height: 16px;">Applied GIS and Retail Modelling</td>
-<td style="height: 16px;">&nbsp;15 credits</td>
-<td style="height: 16px;">&nbsp;Semester 2</td>
-</tr>
-</tbody>
-</table>
-
-Last updated: 04/10/2018
+Last updated: 04/10/2017
