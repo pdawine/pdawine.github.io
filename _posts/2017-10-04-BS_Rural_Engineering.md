@@ -197,7 +197,7 @@ Candidates will be required to study the following compulsory modules
 </tr>
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR25</a></td>
-<td>Am&eacute;nagement et implantation des parcs</td>
+<td>Am&eacute;nagement des parcs</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
