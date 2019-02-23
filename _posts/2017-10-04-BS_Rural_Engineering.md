@@ -275,7 +275,7 @@ Candidates will be required to study the following compulsory modules
 </tr>
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR38</a></td>
-<td>Le froid en agriculture</td>
+<td>Refrigeration</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
