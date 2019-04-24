@@ -1,20 +1,13 @@
 ---
-title: "Untitled"
-runtime: shiny
-output: html_document
+layout: post
+title: CRUD in a web-based geospatial application
 ---
+
 
 ## CREATE, READ, UPDATE, DELETE
 
-```{r eruptions, echo=FALSE}
-inputPanel(
-  uiOutput("spatial")
-)
-
-  output$spatial <- renderUI({
-    tags$video(src = "reg_origin.mp4", type = "video/mp4", autoplay = 'yes', controls = "controls")
-  })
-```
+<iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
+width="640" height="360" frameborder="0" ></iframe>
 
 When we are building APIs, we want our models to provide four basic types of functionality. The model must be able to Create, Read, Update, and Delete resources. Computer scientists often refer to these functions by the acronym CRUD. A model should have the ability to perform at most these four functions in order to be complete. If an action cannot be described by one of these four operations, then it should potentially be a model of its own.
 
