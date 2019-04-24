@@ -1,7 +1,6 @@
 ---
-title: "Untitled"
-runtime: shiny
-output: html_document
+layout: post
+title: CRUD in a web-based geospatial application
 ---
 
 ## CREATE, READ, UPDATE, DELETE
