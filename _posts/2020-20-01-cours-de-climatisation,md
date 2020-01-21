@@ -8,7 +8,11 @@ Les échelles de température:
 3- Le degré Celsius
 4- Le degré Farenheit
 
-La détermination du 0o C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, 
+La détermination du 0o C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, gazeux ou vapeur à la pression atmosphérique
+
+### Expérience de Toricelli
+
+760 mm de Hg
 
 
 # Finite differences for the 2D heat equation
