@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cours de climatisation
+---
+
 Le principe de la climatisation consiste à enlever de la chaleur d'un endroit vers un autre.  La combustion du soufre dans une allumette se fait à 200o F, cependant, cela n'affecte pas la température de la salle à cause de sa masse qui est faible.
 
 On a remarqué qu'en fournissant de la chaleur 1a un corps, on augmente l'activité moléculaire au niveau de corps.  De même en y retirant de la chaleur, on augmente l'attraction des molécules au niveau du corps.  Un corps à 0o C ne degage plus de la chaleur
