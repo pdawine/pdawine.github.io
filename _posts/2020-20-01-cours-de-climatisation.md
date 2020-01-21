@@ -13,6 +13,12 @@ La détermination du 0o C est faite à partir du point triple où l'eau se trouv
 ### Expérience de Toricelli
 
 760 mm de Hg
+29 mm 92 de Hg
+14.696 psi (pounds pers square inch) ou lb/Po 2
+1 atm ou 101.33 kPa
+
+Sur le mont Everest à l'Himalaya (8880 m) la pression atmosphérique est de 8.882 psi.  La pression est plus basse
+Pabsolue = Pmanométrique + Patm
 
 
 # Finite differences for the 2D heat equation
