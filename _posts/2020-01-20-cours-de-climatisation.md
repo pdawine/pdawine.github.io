@@ -15,7 +15,7 @@ Les échelles de température:
 
 La détermination du 0o C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, gazeux ou vapeur à la pression atmosphérique
 
-** Expérience de Toricelli **
+**Expérience de Toricelli**
 
 760 mm de Hg
 29 mm 92 de Hg
@@ -33,7 +33,7 @@ Implementation of a simple numerical schemes for the heat equation.
 
 
 
-<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}=\alpha&space;\left(\frac{\partial^2&space;u}{\partial&space;x^2&space;}+\frac{\partial^2&space;u}{\partial&space;y^2&space;}\right)."/>
+**<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}=\alpha&space;\left(\frac{\partial^2&space;u}{\partial&space;x^2&space;}+\frac{\partial^2&space;u}{\partial&space;y^2&space;}\right)."/>**
 
 
 
