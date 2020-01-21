@@ -15,7 +15,7 @@ Les échelles de température:
 
 La détermination du 0o C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, gazeux ou vapeur à la pression atmosphérique
 
-### Expérience de Toricelli
+** Expérience de Toricelli **
 
 760 mm de Hg
 29 mm 92 de Hg
