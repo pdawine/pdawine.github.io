@@ -43,7 +43,7 @@ Applying the second-order centered differences to approximate the spatial deriva
 Neumann boundary condition is employed for no-heat flux, thus please note that the grid location is staggered. Once the right hand side is obtained, the equation can be solved by the ODE suite. Here we use ode15s. Copyright 2015-2016 The MathWorks, Inc.
 
 
-
+<img src="/assets/pictures/self_500x500.jpg" alt="Self" style="width: 300px;"/>
 
 ![image_0.png](SimpleHeatEquation_images/image_0.png)
 
