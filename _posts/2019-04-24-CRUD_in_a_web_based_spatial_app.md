@@ -5,7 +5,8 @@ title: CRUD in a web-based geospatial application
 
 ## CREATE, READ, UPDATE, DELETE
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![mCrop Web-based application](assets/pictures/NLP_Project2014/LetsGetStarted.png)
+
 
 When we are building APIs, we want our models to provide four basic types of functionality. The model must be able to Create, Read, Update, and Delete resources. Computer scientists often refer to these functions by the acronym CRUD. A model should have the ability to perform at most these four functions in order to be complete. If an action cannot be described by one of these four operations, then it should potentially be a model of its own.
 
