@@ -31,9 +31,11 @@ Pabsolue = Pmanométrique + Patm
 
 Implementation of a simple numerical schemes for the heat equation.
 
+<span style="color:blue">
+   <img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}=\alpha&space;\left(\frac{\partial^2&space;u}{\partial&space;x^2&space;}+\frac{\partial^2&space;u}{\partial&space;y^2&space;}\right)."/>
+</span>
+    
 
-
-<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}=\alpha&space;\left(\frac{\partial^2&space;u}{\partial&space;x^2&space;}+\frac{\partial^2&space;u}{\partial&space;y^2&space;}\right)."/>
 
 
 
