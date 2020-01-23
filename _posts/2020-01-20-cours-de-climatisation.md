@@ -31,7 +31,7 @@ P<sub>absolue</sub> = P<sub>manométrique</sub> + P<sub>atm</sub> <br>
 
 T<sub>1</sub>F = 9/5T<sub>1</sub><sup>o</sup>C + 32 ou <br>
 T<sub>1</sub><sup>o</sup>C = 5/9(T<sub>1</sub>F - 32)
-<img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;T_{1}^{o}C = /frac{5}{9}(T_{1}F - 32)" />
+<img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;T_{1}^{o}C = \frac{5}{9}(T_{1}F - 32)" />
 
 Pour le rendre le volume intensive, on le divise par la masse, d'où pas de variation de volume, ainsi: <br>
 <img width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v = \frac{v}{m}" />
@@ -40,4 +40,3 @@ v: volume spécifique ou massique <br>
 <img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
 <img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T" />
  
-
