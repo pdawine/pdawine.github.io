@@ -39,7 +39,7 @@ v: volume spécifique ou massique <br>
 
 <img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
 
-<img width="120" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T en chimie" />
-<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante universelle des gaz" />
-<img width="120" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre{ }de{ }moles" />
+<img width="120" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T en~chimie" />
+<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante~universelle~des~gaz" />
+<img width="120" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre~de~moles" />
  
