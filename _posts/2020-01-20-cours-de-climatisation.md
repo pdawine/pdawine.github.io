@@ -4,29 +4,50 @@ title: Cours de climatisation
 ---
 
  <img src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+ 
+ 
+ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ 
+ 
+ h<sup>&theta;</sup>(x) = &theta;<sup>o</sup> x + &theta;<sup>1</sup>x
 
  
-Le principe de la climatisation consiste à enlever de la chaleur d'un endroit vers un autre.  La combustion du soufre dans une allumette se fait à 200o F, cependant, cela n'affecte pas la température de la salle à cause de sa masse qui est faible.
+Le principe de la climatisation consiste à enlever de la chaleur d'un endroit vers un autre.  La combustion du soufre dans une allumette se fait à 200<sup>o</sup>F, cependant, cela n'affecte pas la température de la salle à cause de sa masse qui est faible.
 
-On a remarqué qu'en fournissant de la chaleur 1a un corps, on augmente l'activité moléculaire au niveau de corps.  De même en y retirant de la chaleur, on augmente l'attraction des molécules au niveau du corps.  Un corps à 0o C ne degage plus de la chaleur
+On a remarqué qu'en fournissant de la chaleur à un corps, on augmente l'activité moléculaire au niveau de ce corps.  De même en y retirant de la chaleur, on augmente l'attraction des molécules au niveau du corps.  Un corps à 0<sup>o</sup>C ne degage plus de la chaleur
 
 Les échelles de température:
 1- le kelvin (k) utilisé surtout en europe
-2- Le degré Rankine (oR) utilisé par les Anglo-Sazons
+2- Le degré Rankine (<sup>o</sup>R) utilisé par les Anglo-Sazons
 3- Le degré Celsius
 4- Le degré Farenheit
 
-La détermination du 0o C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, gazeux ou vapeur à la pression atmosphérique
+T<sub>1</sub>K = T<sub>1</sub><sup>o</sup>C + 273.15 <br>
+T<sub>1</sub><sup>o</sup>R = T<sub>1</sub><sup>o</sup>F + 459.67 <br>
+T<sub>1</sub>F - T<sub>2</sub>F = T<sub>1</sub><sup>o</sup>R - T<sub>2</sub><sup>o</sup>R <br>
+
+La détermination du 0<sup>o</sup>C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, gazeux ou vapeur à la pression atmosphérique
 
 **Expérience de Toricelli**
 
-760 mm de Hg
-29 mm 92 de Hg
-14.696 psi (pounds pers square inch) ou lb/Po 2
-1 atm ou 101.33 kPa
+760 mm de Hg <br>
+29 pouces 92 de Hg <br>
+14.696 psi (pounds pers square inch) ou lb/P<sub>o</sub><sup>2</sup> <br>
+1 atm ou 101.33 kP<sub>a</sub> <br>
 
 Sur le mont Everest à l'Himalaya (8880 m) la pression atmosphérique est de 8.882 psi.  La pression est plus basse
-Pabsolue = Pmanométrique + Patm
+P<sub>absolue</sub> = P<sub>manométrique</sub> + P<sub>atm</sub> <br>
+
+T<sub>1</sub>F = 9/5T<sub>1</sub><sup>o</sup>+32 ou <br>
+T<sub>1</sub><sup>o</sup>C = 5/9(T<sub>1</sub>F - 32)
+
+Pour le rendre le volume intensive, on le divise par la masse, d'où pas de variation de volume, ainsi:
+v = v/m <br>
+v: volume spécifique ou massique <br>
+
+ <img src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\color{red}\Large&space; v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
 
 
 # Finite differences for the 2D heat equation
@@ -45,7 +66,7 @@ http://latex.codecogs.com/svg.latex?%5Cfrac%7B%5Csigma%7D%7B%5Cmu%7D
 
 %5Cfrac%7B%5Csigma%7D%7B%5Cmu%7D
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
 \frac{\sigma}{\mu}
 
 <img src="/assets/pictures/self_500x500.jpg" alt="Self" style="width: 300px;"/>
