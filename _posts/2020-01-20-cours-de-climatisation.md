@@ -3,9 +3,7 @@ layout: post
 title: Cours de climatisation
 ---
 
- <img src="https://latex.codecogs.com/svg.latex?\color{blue}\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
- <img src="https://latex.codecogs.com/svg.latex?\color{red}\sqrt{ab}" /> 
+ <img src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
  
 Le principe de la climatisation consiste à enlever de la chaleur d'un endroit vers un autre.  La combustion du soufre dans une allumette se fait à 200o F, cependant, cela n'affecte pas la température de la salle à cause de sa masse qui est faible.
