@@ -38,5 +38,8 @@ Pour rendre le volume intensive, on le divise par la masse, d'où pas de variati
 v: volume spécifique ou massique <br>
 
 <img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
-<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T" />
+
+<img width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T en chimie" />
+<img width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante universelle des gaz" />
+<img width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre de moles" />
  
