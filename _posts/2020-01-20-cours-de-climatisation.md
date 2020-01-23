@@ -3,6 +3,10 @@ layout: post
 title: Cours de climatisation
 ---
 
+ \widehat{ab}  \sqrt{ab}
+ 
+ <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+ 
 Le principe de la climatisation consiste à enlever de la chaleur d'un endroit vers un autre.  La combustion du soufre dans une allumette se fait à 200o F, cependant, cela n'affecte pas la température de la salle à cause de sa masse qui est faible.
 
 On a remarqué qu'en fournissant de la chaleur 1a un corps, on augmente l'activité moléculaire au niveau de corps.  De même en y retirant de la chaleur, on augmente l'attraction des molécules au niveau du corps.  Un corps à 0o C ne degage plus de la chaleur
@@ -28,27 +32,22 @@ Pabsolue = Pmanométrique + Patm
 
 # Finite differences for the 2D heat equation
 
-
 Implementation of a simple numerical schemes for the heat equation.
 
 <span style="color:blue">
    <img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}=\alpha&space;\left(\frac{\partial^2&space;u}{\partial&space;x^2&space;}+\frac{\partial^2&space;u}{\partial&space;y^2&space;}\right)."/>
 </span>
-    
-
-
-
 
 Applying the second-order centered differences to approximate the spatial derivatives,
 
+$e^{i \pi} = -1$
 
+http://latex.codecogs.com/svg.latex?%5Cfrac%7B%5Csigma%7D%7B%5Cmu%7D
 
-<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}=\alpha&space;\left(\frac{u(i-1,j)-2u(i,j)+u(i+1,j)}{\Delta&space;x^2&space;}+\frac{u(i,j-1)-2u(i,j)+u(i,j+1)}{\Delta&space;y^2&space;}\right)."/>
+%5Cfrac%7B%5Csigma%7D%7B%5Cmu%7D
 
-
-
-Neumann boundary condition is employed for no-heat flux, thus please note that the grid location is staggered. Once the right hand side is obtained, the equation can be solved by the ODE suite. Here we use ode15s. Copyright 2015-2016 The MathWorks, Inc.
-
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+\frac{\sigma}{\mu}
 
 <img src="/assets/pictures/self_500x500.jpg" alt="Self" style="width: 300px;"/>
 
