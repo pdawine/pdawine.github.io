@@ -20,6 +20,7 @@ T<sub>1</sub>F - T<sub>2</sub>F = T<sub>1</sub><sup>o</sup>R - T<sub>2</sub><sup
 La détermination du 0<sup>o</sup>C est faite à partir du point triple où l'eau se trouve à la fois à l'état solide, liquide, gazeux ou vapeur à la pression atmosphérique
 
 **Expérience de Toricelli**
+![mCrop Web-based application](/assets/pictures/experience_toricelli.png)
 
 760 mm de Hg <br>
 29 pouces 92 de Hg <br>
