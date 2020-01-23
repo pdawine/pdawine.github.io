@@ -3,7 +3,7 @@ layout: post
 title: Cours de climatisation
 ---
 
- <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+ <img src="https://latex.codecogs.com/svg.latex?\color{blue}\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
  <img src="https://latex.codecogs.com/svg.latex?\color{red}\sqrt{ab}" /> 
 
