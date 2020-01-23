@@ -44,9 +44,8 @@ T<sub>1</sub><sup>o</sup>C = 5/9(T<sub>1</sub>F - 32)
 Pour le rendre le volume intensive, on le divise par la masse, d'où pas de variation de volume, ainsi: <br>
 v = v/m <br>
 v: volume spécifique ou massique <br>
-<div style="text-align: center">
-<img src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
-</div>
+<img align:center width="329" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
+
 
 # Finite differences for the 2D heat equation
 
