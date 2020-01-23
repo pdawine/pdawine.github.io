@@ -46,7 +46,7 @@ v = v/m <br>
 v: volume spécifique ou massique <br>
 
 <div style="text-align: center">
-<img align:center width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
+<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
  </div>
 
 # Finite differences for the 2D heat equation
