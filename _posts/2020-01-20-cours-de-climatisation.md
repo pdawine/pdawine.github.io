@@ -8,10 +8,10 @@ Le principe de la climatisation consiste à enlever de la chaleur d'un endroit v
 On a remarqué qu'en fournissant de la chaleur à un corps, on augmente l'activité moléculaire au niveau de ce corps.  De même en y retirant de la chaleur, on augmente l'attraction des molécules au niveau du corps.  Un corps à 0<sup>o</sup>C ne degage plus de la chaleur
 
 Les échelles de température:
-1. le kelvin (k) utilisé surtout en europe
-2. Le degré Rankine (<sup>o</sup>R) utilisé par les Anglo-Sazons
-3. Le degré Celsius
-4. Le degré Farenheit
+1. le kelvin (k) utilisé surtout en europe;
+2. Le degré Rankine (<sup>o</sup>R) utilisé par les Anglo-Saxons;
+3. Le degré Celsius;
+4. Le degré Farenheit.
 
 T<sub>1</sub>K = T<sub>1</sub><sup>o</sup>C + 273.15 <br>
 T<sub>1</sub><sup>o</sup>R = T<sub>1</sub><sup>o</sup>F + 459.67 <br>
@@ -39,7 +39,13 @@ v: volume spécifique ou massique <br>
 
 <img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
 
-<img width="120" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T en~chimie" />
-<img width="170" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante~universelle~des~gaz" />
-<img width="120" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre~de~moles" />
+<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T en~chimie" />
+<img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante~universelle~des~gaz" />
+<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre~de~moles" />
+
+En physique, PV = mRT
+<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;M=\frac{m}{N} ~~~ R = \frac{\bar{R}}{M}" />
+
+
+
  
