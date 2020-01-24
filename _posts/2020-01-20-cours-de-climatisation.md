@@ -40,7 +40,7 @@ v: volume spécifique ou massique <br>
 <img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;v=\frac{1}{\frac{m}{v}} = \frac{1}{\rho}" />
 
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = N\overline{R}T en~chimie" />
-<img width="250" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante~universelle~des~gaz" />
+<img width="300" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\overline{R}T: constante~universelle~des~gaz" />
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre~de~moles" />
 <br>
 En physique, PV = mRT
