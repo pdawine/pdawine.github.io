@@ -69,10 +69,11 @@ La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  
 - 0.01% des autres gaz: Ne, SO<sub>2</sub>, etc.
 
 Les gaz qui composent l'air ne réagissent pas entre eux.  Pour trouver la pression de l'air, on doit utiliser lea loi de Dalton qui dit: "La pression d'un mélange de gaz est égale à la somme des différentes gaz pris à la même température dans le même volume.
- <img align: middle width="400" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air} = p_{N_{2}}+p_{O_{2}}+p_{A_{r}}+p_{CO_{2}}+p... (air~sec)" />
-  <img align: middle width="400" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air~humide} = p_{air~sec}+p_{H_{2}_O}" />
+ <img width="400" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air} = p_{N_{2}}+p_{O_{2}}+p_{A_{r}}+p_{CO_{2}}+p... (air~sec)" />
+ <img width="400" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air~humide} = p_{air~sec}+p_{H_{2}_O}" />
   
-Quand il pleut, l'air est saturé, il y a neuf propiétés qui caractérisent l'air: <br>
+Quand il pleut, l'air est saturé, il y a neuf propiétés qui caractérisent l'air: <br><br>
+
 **1. (DB) Dry bulb temperature: température à bulbe sèche** <br>
 C'est la température du thermomètre quand le résevoir de ce thermomètre est sec
 
