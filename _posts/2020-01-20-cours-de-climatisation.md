@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GNR38 Cours de climatisation
+title: GNR38: Cours de climatisation
 ---
  
 Le principe de la climatisation consiste à enlever de la chaleur d'un endroit vers un autre.  La combustion du soufre dans une allumette se fait à 200<sup>o</sup>F, cependant, cela n'affecte pas la température de la salle à cause de sa masse qui est faible.
