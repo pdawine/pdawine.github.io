@@ -88,7 +88,7 @@ C'est le point juste avant que les goutelettes se forment.  Quand il y a du brou
 **4. (VP) Vapor pressure: pression partielle de la vapeur d'eau** <br>
 
 **5. (VP) Humidy ratio: taux d'humidité** <br>
-<img width="70" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\frac{lb~{H_{2}O}}{lb_{air~sec}} " />
+<img width="70" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 c'est la masse d'eau dans une litre d'air sec:
 7000 grains =  1 lb d'H<sub>2</sub>O
 
@@ -98,7 +98,7 @@ taux d'humidité dans les conditions ou il se trouve. <br>
 taux d'umidité de l'air si celui-ci était saturé à la même température.
 
 **7. (&Phi;) Relative Humidity: Humidité relative** <br>
-<img align: middle width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\phi = \frac{p_{H_{2}O}}{p_{S}_{H_{2}O}} " />
+<img align: middle width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\phi = \frac{p_{H_{2}O}}{p_s_{H_{2}O}} " />
 taux d'humidité dans les conditions ou il se trouve. <br>
 taux d'umidité de l'air si celui-ci était saturé à la même température.
 
