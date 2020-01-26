@@ -13,6 +13,7 @@ When we are building APIs, we want our models to provide four basic types of fun
 The CRUD paradigm is common in constructing web applications, because it provides a memorable framework for reminding developers of how to construct full, usable models. For example, let's imagine a system to keep track of library books. In this hypothetical library database, we can imagine that there would be a books resource, which would store book objects. Let's say that the book object looks like this:
 
 To make this library system usable, we would want to make sure there were clear mechanisms for completing the CRUD operations:
+
 Create - This would consist of a function which we would call when a new library book is being added to the catalog. The program calling the function would supply the values for "title", "author", and "isbn". After this function is called, there should be a new entry in the books resource corresponding to this new book. Additionally, the new entry is assigned a unique id, which can be used to access this resource later.
 
 Read - This would consist of a function which would be called to see all of the books currently in the catalog. This function call would not alter the books in the catalog - it would simply retrieve the resource and display the results. We would also have a function to retrieve a single book, for which we could supply the title, author, or ISBN. Again, this book would not be modified, only retrieved.
