@@ -44,13 +44,26 @@ v: volume spécifique ou massique <br>
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre~de~moles" />
 <br>
 En physique, PV = mRT
-<img width="450" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;M=\frac{m}{N} ~~~ R = \frac{\bar{R}}{M} ~~~ PV = \frac{m}{M}MRT ~~~ PV = nRT ~~~ Pv = RT" />
+<img width="450" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;M=\frac{m}{N} ~~~ R = \frac{\bar{R}}{M} ~~~ PV = \frac{m}{M}MRT ~~~  \Longrightarrow ~~ PV = nRT ~~~  \Longrightarrow ~~ P \Longrightarrow ~~ v = RT" />
 R: constante spécifique des gaz
 M: masse molaire
 m: masse
 
 **P<sub>constante</sub>**
-<img width="300" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; v~est~proportionnel~à~T~~\Longrightarrow \frac{v1}{v2} = \frac{T1}{T2}" />
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; v~est~proportionnel~à~T~~\Longrightarrow \frac{v1}{v2} = \frac{T1}{T2}" />
+
+**V<sub>constante</sub>**
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P\alphaT~~\Longrightarrow ~~\frac{P1}{P2} = \frac{T1}{T2}" />
+
+**T<sub>constante</sub>**
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P\alpha\frac{1}{V}~~\Longrightarrow ~~\frac{P1}{P2} = \frac{V2}{V1}" />
+
+dans le cas général
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; \frac{P1V1}{P2V2} = \frac{T1}{T2}" />
+
+La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  L'air est composé de:
+
+
 
 
 
