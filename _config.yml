@@ -10,7 +10,7 @@ highlighter: true
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            Dawine Pierre
