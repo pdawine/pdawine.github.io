@@ -51,7 +51,7 @@ M: masse molaire
 m: masse
 
 **P<sub>constante</sub>**
-<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; v~est~proportionnel~à~T~~\Longrightarrow ~~\frac{v1}{v2} = \frac{T1}{T2}" />
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; v~est~proportionnel~\grave{a}~T~~\Longrightarrow ~~\frac{v1}{v2} = \frac{T1}{T2}" />
 
 **V<sub>constante</sub>**
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P{\alpha}T~~\Longrightarrow ~~\frac{P1}{P2} = \frac{T1}{T2}" />
@@ -70,7 +70,7 @@ La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  
 
 Les gaz qui composent l'air ne réagissent pas entre eux.  Pour trouver la pression de l'air, on doit utiliser lea loi de Dalton qui dit: "La pression d'un mélange de gaz est égale à la somme des différentes gaz pris à la même température dans le même volume.
  <img width="400" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air} = p_{N_{2}}+p_{O_{2}}+p_{A_{r}}+p_{CO_{2}}+p... (air~sec)" />
- <img width="300" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air~humide} = p_{air~sec} + p_{H_{2}O}" />
+ <img width="250" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air~humide} = p_{air~sec} + p_{H_{2}O}" />
   
 Quand il pleut, l'air est saturé, il y a neuf propiétés qui caractérisent l'air: <br><br>
 
@@ -80,6 +80,22 @@ C'est la température du thermomètre quand le résevoir de ce thermomètre est 
 **2. (WB) Dry bulb temperature: température à bulbe humide** <br>
 C'est la température du thermomètre quand le reservoir (buldbe) de ce thermomètre est enveloppé d'un chiffon mouillé.  L'appareil qui permet de faire une lecture s'appelle: sling psychrometer
 ![mCrop Web-based application](/assets/pictures/sling_psychrometer.png)
+WB = DB (air saturé)
+
+**3. (DP) Dew point: point de rosée** <br>
+C'est le point juste avant que les goutelettes se forment.  Quand il y a du brouillard, l'air est saturé.
+
+**4. (VP) Vapor pressure: pression partielle de la vapeur d'eau** <br>
+
+**5. (VP) Humidy ratio: taux d'humidité** <br>
+<img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\frac{lb~{H_{2}O}}{lb_{air~sec}} " />
+c'est la masse d'eau dans une litre d'air sec:
+7000 grains =  1 lb d'H<sub>2</sub>
+
+**6. Degré de saturation** <br>
+<img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\frac{lb~{H_{2}O}}{lb_{air~sec}} " />
+c'est la masse d'eau dans une litre d'air sec:
+7000 grains =  1 lb d'H<sub>2</sub>
 
 
 
