@@ -94,7 +94,12 @@ c'est la masse d'eau dans une litre d'air sec:
 
 **6. (&mu;) Degree of saturation: Degré de saturation** <br>
 <img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\mu = \frac{W}{W_{s}} " />
-taux d'humidité dans les conditions ou il se trouve.
+taux d'humidité dans les conditions ou il se trouve. <br>
+taux d'umidité de l'air si celui-ci était saturé à la même température.
+
+**7. (&phi;) Relative Humidity: Humidité relative** <br>
+<img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\phi = \frac{p_{H_{2}O}{p_{S}_{H_{2}O} " />
+taux d'humidité dans les conditions ou il se trouve. <br>
 taux d'umidité de l'air si celui-ci était saturé à la même température.
 
 
