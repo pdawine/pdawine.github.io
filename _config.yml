@@ -4,8 +4,8 @@ markdown:      redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter:      pygments
-highlighter:  rouge
-#highlighter: true
+#highlighter:  rouge
+highlighter: true
 
 
 # Permalinks
@@ -18,7 +18,7 @@ tagline:          'Rural & Software Engineer, Data Scientist, GIS Specialist'
 description:      'Rural & Software Engineer, Data Scientist, GIS Specialist'
 url:              https://pdawine.github.io/
 # baseurl:          /pdawine.github.io/
-baseurl:          /
+baseurl:          /pdawine.github.io/
 
 author:
   name:           'Dawine Pierre'
