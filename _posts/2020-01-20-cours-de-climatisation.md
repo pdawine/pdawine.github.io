@@ -90,12 +90,13 @@ C'est le point juste avant que les goutelettes se forment.  Quand il y a du brou
 **5. (VP) Humidy ratio: taux d'humidité** <br>
 <img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\frac{lb~{H_{2}O}}{lb_{air~sec}} " />
 c'est la masse d'eau dans une litre d'air sec:
-7000 grains =  1 lb d'H<sub>2</sub>
+7000 grains =  1 lb d'H<sub>2</sub>O
 
-**6. Degré de saturation** <br>
-<img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\frac{lb~{H_{2}O}}{lb_{air~sec}} " />
-c'est la masse d'eau dans une litre d'air sec:
-7000 grains =  1 lb d'H<sub>2</sub>
+**6. (&mu;) Degree of saturation: Degré de saturation** <br>
+<img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\mu = \frac{W}{W_{s}} " />
+taux d'humidité dans les conditions ou il se trouve.
+taux d'umidité de l'air si celui-ci était saturé à la même température.
+
 
 
 
