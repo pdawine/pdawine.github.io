@@ -44,7 +44,8 @@ v: volume spécifique ou massique <br>
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;N: nombre~de~moles" />
 <br>
 En physique, PV = mRT
-<img width="450" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;M=\frac{m}{N} ~~~ R = \frac{\bar{R}}{M} ~~~ PV = \frac{m}{M}MRT ~~~  \Longrightarrow ~~ PV = nRT ~~~  \Longrightarrow ~~ P \Longrightarrow ~~ v = RT" />
+<img width="250" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;M=\frac{m}{N} ~~~ R = \frac{\bar{R}}{M} " />
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;PV = \frac{m}{M}MRT ~~~  \Longrightarrow ~~ PV = nRT ~~~  \Longrightarrow ~~ P \Longrightarrow ~~ v = RT" />
 R: constante spécifique des gaz
 M: masse molaire
 m: masse
