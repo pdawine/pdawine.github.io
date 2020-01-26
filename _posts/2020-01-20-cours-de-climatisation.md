@@ -50,16 +50,16 @@ M: masse molaire
 m: masse
 
 **P<sub>constante</sub>**
-<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; v~est~proportionnel~à~T~~\Longrightarrow \frac{v1}{v2} = \frac{T1}{T2}" />
+<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; v~est~proportionnel~à~T~~\Longrightarrow ~~\frac{v1}{v2} = \frac{T1}{T2}" />
 
 **V<sub>constante</sub>**
-<img width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P{\alpha}T~~\Longrightarrow ~~\frac{P1}{P2} = \frac{T1}{T2}" />
+<img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P{\alpha}T~~\Longrightarrow ~~\frac{P1}{P2} = \frac{T1}{T2}" />
 
 **T<sub>constante</sub>**
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P\alpha\frac{1}{V}~~\Longrightarrow ~~\frac{P1}{P2} = \frac{V2}{V1}" />
 
 dans le cas général
-<img width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; \frac{P1V1}{P2V2} = \frac{T1}{T2}" />
+<img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; \frac{P1V1}{P2V2} = \frac{T1}{T2}" />
 
 La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  L'air est composé de:
 
