@@ -107,7 +107,7 @@ V = V<sub>a</sub> +&mu;V<sub>as</sub>       (cuft/ lb air sec)
 V<sub>a</sub>: volume spécifique de la vapeur d'eau.
 
 **9. (H) Enthalpy: Enthalpie** <br>
-h = h<sub>a</sub> + h<sub>as</sub>
+h = h<sub>a</sub> + h<sub>as</sub> <br>
 h<sub>a</sub>: enthalpie de l'air sec <br>
 h<sub>as</sub>: enthalpie de la vapeur d'eau
 
