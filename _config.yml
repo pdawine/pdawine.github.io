@@ -1,25 +1,31 @@
 # Dependencies
-markdown:     kramdown
+markdown:      redcarpet
+#markdown:     kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter:  rouge
+highlighter:      pygments
+#highlighter:  rouge
+highlighter: true
 
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Dawine Pierre
 tagline:          'Rural & Software Engineer, Data Scientist, GIS Specialist'
 description:      'Rural & Software Engineer, Data Scientist, GIS Specialist'
 url:              https://pdawine.github.io/
-baseurl:          /pdawine.github.io/
+# baseurl:          /pdawine.github.io/
+baseurl:          /
 
 author:
   name:           'Dawine Pierre'
   url:            https://twitter.com/pdawine
 
-paginate:         5
+#paginate:         5
+paginate:         1
 
 # Custom vars
 version:          2.1.0
