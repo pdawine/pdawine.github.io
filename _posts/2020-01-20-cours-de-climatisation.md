@@ -98,12 +98,12 @@ taux d'humidité dans les conditions ou il se trouve. <br>
 taux d'umidité de l'air si celui-ci était saturé à la même température.
 
 **7. (&Phi;) Relative Humidity: Humidité relative** <br>
-<img align: middle width="150" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\phi = \frac{p_{H_{2}O}}{p_s_{H_{2}O}} " />
+<img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\phi = \frac{p_{H_{2}O}}{p_{S}_{H_{2}O}} " />
 taux d'humidité dans les conditions ou il se trouve. <br>
 taux d'umidité de l'air si celui-ci était saturé à la même température.
 
 **8. (V) Specific volume: volume spécifique** <br>
-V = V<sub>a</sub> +&muV<sub>as</sub>  (cuft/ lb air sec)
+V = V<sub>a</sub> +&mu;V<sub>as</sub>       (cuft/ lb air sec)
 V<sub>a</sub>: volume spécifique de la vapeur d'eau.
 
 **9. (H) Enthalpy: Enthalpie** <br>
