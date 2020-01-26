@@ -58,8 +58,7 @@ m: masse
 **T<sub>constante</sub>**
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P\alpha\frac{1}{V}~~\Longrightarrow ~~\frac{P1}{P2} = \frac{V2}{V1}" />
 
-
-<img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;dans~le~cas~général:~~\frac{P1V1}{P2V2} = \frac{T1}{T2}" />
+<img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;dans~le~cas~général:~~\frac{P1V1}{P2V2} = \frac{T1}{T2}" />
 
 La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  L'air est composé de:
 -79.08% d'N<sub>2</sub>
@@ -69,7 +68,7 @@ La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  
 -0.01% des autres gaz: Ne, SO<sub>2</sub>,etc.
 
 Les gaz qui composent l'air ne réagissent pas entre eux.  Pour trouver la pression de l'air, on doit utiliser lea loi de Dalton qui dit: "La pression d'un mélange de gaz est égale à la somme des différentes gaz pris à la même température dans le même volume.
- <img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air} = p_{N_{2}}+p_{O_{2}}+p_{A_{r}}+p_{CO_{2}}+p... (air~sec)" />
+ <img align: middle width="350" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air} = p_{N_{2}}+p_{O_{2}}+p_{A_{r}}+p_{CO_{2}}+p... (air~sec)" />
 
 
 
