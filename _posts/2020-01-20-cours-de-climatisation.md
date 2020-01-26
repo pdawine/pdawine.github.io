@@ -62,6 +62,15 @@ m: masse
 <img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;dans~le~cas~général:~~\frac{P1V1}{P2V2} = \frac{T1}{T2}" />
 
 La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  L'air est composé de:
+-79.08% d'N<sub>2</sub>
+-20.95% d'O<sub>2</sub>
+-0.93% d'Ar
+-0.03% de CO<sub>2</sub>
+-0.01% des autres gaz: Ne, SO<sub>2</sub>,etc.
+
+Les gaz qui composent l'air ne réagissent pas entre eux.  Pour trouver la pression de l'air, on doit utiliser lea loi de Dalton qui dit: "La pression d'un mélange de gaz est égale à la somme des différentes gaz pris à la même température dans le même volume.
+P<sub>air</sub> = p<sub>N</sub><sub>2</sub> 
+
 
 
 
