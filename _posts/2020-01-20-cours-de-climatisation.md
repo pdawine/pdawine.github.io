@@ -58,8 +58,8 @@ m: masse
 **T<sub>constante</sub>**
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; P\alpha\frac{1}{V}~~\Longrightarrow ~~\frac{P1}{P2} = \frac{V2}{V1}" />
 
-dans le cas général
-<img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; \frac{P1V1}{P2V2} = \frac{T1}{T2}" />
+
+<img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;dans~le~cas~général:~~\frac{P1V1}{P2V2} = \frac{T1}{T2}" />
 
 La distance entre la terre et le dernier point de l'atmosphère est de 160 km.  L'air est composé de:
 
