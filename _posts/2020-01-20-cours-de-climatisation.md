@@ -117,9 +117,9 @@ On a créé une graphe à l'intérieur de laquelle on a tous ces paramètres.  M
 3. hautes températures +60 à 250<sup>o</sup>F  p<sub>atm</sub> = 14.696 psi
 4. 32 à 120 <sup>o</sup>F   altitude 5000 ft
 
-Hypothèses: DB: 80<sup>o</sup>F  &Phi; = 50%  WB = 67.3  DP = 59.6    
+Hypothèses: DB: 80<sup>o</sup>F  &Phi; = 50%  WB = 67.3<sup>o</sup>F   DP = 59.6<sup>o</sup>F    
 <img width="70" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
-h =31.2 BTU/lb
+h = 31.2 BTU/lb
 
 
 
