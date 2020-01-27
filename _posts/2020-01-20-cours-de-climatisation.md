@@ -127,9 +127,9 @@ On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>
 
 **Processus I** 
 100 <sup>o</sup>F  DB = 80<sup>o</sup>F et &Phi; = 50% <br>
-AC/AB = 0.8 <br>  
-AC = 0.8AB = 0.8(B-A) <br>  
-C-A = 0.8(B-A) <br> 
+AC/AB = 0.8 <br> 
+AC = 0.8AB = 0.8(B-A) <br>
+C-A = 0.8(B-A) <br>
 C = A + 0.8(B-A) = 80 + 0.8(100-80) = 96
 
 **Processus II** 
