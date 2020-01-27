@@ -48,7 +48,7 @@ Candidates will be required to study the following compulsory modules:
 </tr>
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR02</a></td>
-<td>Compl&eacute;ent d'hydrologie</td>
+<td>Compl&eacute;ment d'hydrologie</td>
 <td>48 hours</td>
 <td>Session 2</td>
 </tr>
@@ -275,7 +275,7 @@ Candidates will be required to study the following compulsory modules
 </tr>
 <tr>
 <td><a href="http://www.ueh.edu.ht/facultes/famv.php">GNR38</a></td>
-<td>Refrigeration</td>
+<td>Climatisation</td>
 <td>48 hours</td>
 <td>Session 1</td>
 </tr>
