@@ -118,7 +118,7 @@ On a créé une graphe à l'intérieur de laquelle on a tous ces paramètres.  M
 4. 32 à 120 <sup>o</sup>F   altitude 5000 ft
 
 Hypothèses: DB: 80<sup>o</sup>F  &Phi; = 50%  WB = 67.3<sup>o</sup>F   DP = 59.6<sup>o</sup>F    
-<img width="300" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
+<img width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 h = 31.2 BTU/lb
 
 On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>o</sup>F et &Phi; = 50% sur une table de temperature constante T = 100<sup>o</sup>F.  La température maximale que peut prendre l'aire est de 100<sup>o</sup>F (i.e la température de la table).  Mais on admet que l'aire va prendre 80% de la temperature de la table.  On positionne le point A à partir des caractéristiques de l'aire et le point B qui a pour température maximale 100<sup>o</sup>F.  On sait qu'il existe un pint C entre les points A et B.  
@@ -132,7 +132,7 @@ C = A + 0.8(B-A) = 80 + 0.8(100-80) = 96
 
 **Processus II** 
 60<sup>o</sup>F et 0.8
-<img width="300" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{A} = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
+<img width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{A} = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 EA/DA = 0.8 <br>  
 EA = 0.8DA <br>
 A-E = 0.8(A-D) <br>  
