@@ -127,7 +127,7 @@ On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>
 
 **Processus I** 
 100 <sup>o</sup>F  DB = 80<sup>o</sup>F et &Phi; = 50% <br>
-AC/AB = 0.8 <br> 
+AC/AB = 0.8 <br>
 AC = 0.8AB = 0.8(B-A) <br>
 C-A = 0.8(B-A) <br>
 C = A + 0.8(B-A) = 80 + 0.8(100-80) = 96
@@ -135,9 +135,9 @@ C = A + 0.8(B-A) = 80 + 0.8(100-80) = 96
 **Processus II** 
 60<sup>o</sup>F et 0.8
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{A} = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
-EA/DA = 0.8 <br>  
+EA/DA = 0.8 <br>
 EA = 0.8DA <br>
-A-E = 0.8(A-D) <br>  
+A-E = 0.8(A-D) <br>
 E = A -0.8(A-D) = 80-0.8(80-60) = 64 <br>
 h<sub>c</sub> = 35.2 BTU/lb d'air sec <br>
 h<sub>a</sub> = 31.3 <br>
