@@ -123,7 +123,7 @@ Hypothèses: DB: 80<sup>o</sup>F  &Phi; = 50%  WB = 67.3<sup>o</sup>F   DP = 59.
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 h = 31.2 BTU/lb
 
-On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>o</sup>F et &Phi; = 50% sur une table de temperature constante T = 100<sup>o</sup>F.  La température maximale que peut prendre l'aire est de 100<sup>o</sup>F (i.e la température de la table).  Mais on admet que l'aire va prendre 80% de la temperature de la table.  On positionne le point A à partir des caractéristiques de l'aire et le point B qui a pour température maximale 100<sup>o</sup>F.  On sait qu'il existe un pint C entre les points A et B.  
+On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>o</sup>F et &Phi; = 50% sur une table de temperature constante T = 100<sup>o</sup>F.  La température maximale que peut prendre l'aire est de 100<sup>o</sup>F (i.e la température de la table).  Mais on admet que l'aire va prendre 80% de la temperature de la table.  On positionne le point A à partir des caractéristiques de l'aire et le point B qui a pour température maximale 100<sup>o</sup>F.  On sait qu'il existe un point C entre les points A et B.  
 
 **Processus I** 
 100 <sup>o</sup>F  DB = 80<sup>o</sup>F et &Phi; = 50% <br>
