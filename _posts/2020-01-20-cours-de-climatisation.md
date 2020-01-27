@@ -151,6 +151,11 @@ h<sub>G</sub> = 18.3 BTU/lb d'air sec
 
 **Processus IV**
 Jet d'eau 75<sup>o</sup>F et 0.8 <br>
+JA/HA = 0.8 <br>
+A - J = 0.8(A-H) <br>
+J = A-0.8(A-H) = 80-0.8(80-75) = 76
+<img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{J} = 0.0173\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
+
 
 
 
