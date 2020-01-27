@@ -111,6 +111,12 @@ h = h<sub>a</sub> + h<sub>as</sub> <br>
 h<sub>a</sub>: enthalpie de l'air sec <br>
 h<sub>as</sub>: enthalpie de la vapeur d'eau
 
+On a créé une graphe à l'intérieur de laquelle on a tous ces paramètres.  Mais le graphe qu'on a adopté, c'est celle créé par la ASHRAE: American Society of Heating Refrigerating and Air Conditioning Engineers.  Pour les différentes types de graphe on a quatre scenarios:
+1- 32 à 120 <sup>o</sup>F   p<sub>atm</sub> = 14.696 psi
+2- basses températures -40 à +50<sup>0</sup>F  p<sub>atm</sub> = 14.696 psi
+3- hautes températures +60 à 250<sup>0</sup>F  p<sub>atm</sub> = 14.696 psi
+4- hautes températures +60 à 250<sup>0</sup>F  p<sub>atm</sub> = 14.696 psi
+
 
 
 
