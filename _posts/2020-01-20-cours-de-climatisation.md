@@ -123,21 +123,35 @@ h = 31.2 BTU/lb
 
 On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>o</sup>F et &Phi; = 50% sur une table de temperature constante T = 100<sup>o</sup>F.  La température maximale que peut prendre l'aire est de 100<sup>o</sup>F (i.e la température de la table).  Mais on admet que l'aire va prendre 80% de la temperature de la table.  On positionne le point A à partir des caractéristiques de l'aire et le point B qui a pour température maximale 100<sup>o</sup>F.  On sait qu'il existe un pint C entre les points A et B.  
 
-** Processus 1** 
-100 <sup>o</sup>F  DB = 80<sup>o</sup>F et &Phi; = 50%
-AC/AB = 0.8  AC = 0.8AB  = 0.8(B-A)  C-A = 0.8(B-A)  C = A + 0.8(B-A)
-C = 80 + 0.8(100-80)  C = 96
+**Processus I** 
+100 <sup>o</sup>F  DB = 80<sup>o</sup>F et &Phi; = 50% <br>
+AC/AB = 0.8 <br>  
+AC = 0.8AB = 0.8(B-A) <br>  
+C-A = 0.8(B-A) <br> 
+C = A + 0.8(B-A) = 80 + 0.8(100-80) = 96
 
-** Processus 2** 
-60 <sup>o</sup>F  0.8
+**Processus II** 
+60<sup>o</sup>F et 0.8
 <img width="300" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{A} = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
-EA/DA = 0.8  EA = 0.8DA
-A-E = 0.8(A-D)  E = A -0.8(A-D) = 80-0.8(80-60) = 64 <br>
+EA/DA = 0.8 <br>  
+EA = 0.8DA <br>
+A-E = 0.8(A-D) <br>  
+E = A -0.8(A-D) = 80-0.8(80-60) = 64 <br>
 h<sub>c</sub> = 35.2 BTU/lb d'air sec <br>
 h<sub>a</sub> = 31.3 <br>
 h<sub>E</sub> = 27.4 <br>
 
 **Processus III**
+40<sup>o</sup>F et 0.8 <br>
+GA/FA = 0.8 <br>
+GA = 0.8FA <br>
+A-G = 0.8(A-F) <br>
+G = 80 - 0.8(80-40) = 48 <br>
+h<sub>G</sub> = 18.3 BTU/lb d'air sec
+
+**Processus IV**
+Jet d'eau 75<sup>o</sup>F et 0.8 <br>
+
 
 
 
