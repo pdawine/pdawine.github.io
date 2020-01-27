@@ -97,7 +97,7 @@ c'est la masse d'eau dans une litre d'air sec:
 taux d'humidité dans les conditions ou il se trouve. <br>
 taux d'umidité de l'air si celui-ci était saturé à la même température.
 
-**7. (&Phi;) Relative Humidity: Humidité relative ttt** <br>
+**7. (&Phi;) Relative Humidity: Humidité relative ** <br>
 <img align: middle width="100" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;\phi = \frac{p_{H_{2}O}}{p_S_{H_{2}O}} " />
 p<sub>H<sub>2</sub>O</sub>: pression partielle de la vapeur d'eau dans les conditions où il se trouve. <br>
 p<sub>s</sub><sub>H<sub>2</sub>O</sub>: pression partielle de la vapeur d'eau si l'air était saturé à la même température.
