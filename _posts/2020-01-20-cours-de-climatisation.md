@@ -72,7 +72,7 @@ Les gaz qui composent l'air ne réagissent pas entre eux.  Pour trouver la press
  <img width="400" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air} = p_{N_{2}}+p_{O_{2}}+p_{A_{r}}+p_{CO_{2}}+p... (air~sec)" />
  <img width="250" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space;P_{air~humide} = p_{air~sec} + p_{H_{2}O}" />
   
-Quand il pleut, l'air est saturé, il y a neuf propiétés qui caractérisent l'air: <br><br>
+Quand il pleut, l'air est saturé, il y a neuf propiétés qui caractérisent l'air: <br>
 
 **1. (DB) Dry bulb temperature: température à bulbe sèche** <br>
 C'est la température du thermomètre quand le résevoir de ce thermomètre est sec
