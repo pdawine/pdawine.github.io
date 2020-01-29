@@ -160,16 +160,14 @@ A - J = 0.8(A-H) <br>
 J = A-0.8(A-H) = 80-0.8(80-75) = 76
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{J} = 0.0173\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 
-
-
-
-
-
-
-
-
-
-
-
-
+**Notions de volumes**
+Q: volume instantané (CFM u<sup>3<>/sup>/min) <br>
+q = W*C*TD(variation de température) <br>
+Delta&;h = C*TD <br>
+q = Wdelta&;h <br>
+W Qrho&;  rho&; = 1/v   v = Q/W <br>
+V: volume spécifique ou volume massique <br>
+W: Qfrac&;V <br>
+ 
+ Air standard correspond à 70<sup>o</sup> F
  
