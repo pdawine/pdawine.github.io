@@ -169,5 +169,7 @@ W Qrho&;  rho&; = 1/v   v = Q/W <br>
 V: volume spécifique ou volume massique <br>
 W: Qfrac&;V <br>
  
+ Delta&;
+ 
  Air standard correspond à 70<sup>o</sup> F
  
