@@ -165,7 +165,7 @@ Q: volume instantané (CFM u<sup>3<>/sup>/min) <br>
 q = W*C*TD(variation de température) <br>
 &Delta;h = C*TD <br>
 q = W&Delta;h <br>
-W Q&rho;  &rho; = 1/v   v = Q/W <br>
+W= Q&Rho;   &Rho; = 1/V   v = Q/W <br>
 V: volume spécifique ou volume massique <br>
 W: Q&frac;V <br>
  
