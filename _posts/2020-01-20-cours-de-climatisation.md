@@ -127,14 +127,14 @@ On va faire passer de l'air ayant les caractéristiques suivantes.  DB = 80<sup>
 
 ![mCrop Web-based application](/assets/pictures/ASHRAE-3.png)
 
-**Processus I** 
+**Processus I** <br>
 100 <sup>o</sup>F  DB = 80<sup>o</sup>F et &Phi; = 50% <br>
 AC/AB = 0.8 <br>
 AC = 0.8AB = 0.8(B-A) <br>
 C-A = 0.8(B-A) <br>
 C = A + 0.8(B-A) = 80 + 0.8(100-80) = 96
 
-**Processus II** 
+**Processus II** <br>
 60<sup>o</sup>F et 0.8
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{A} = 0.011\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 EA/DA = 0.8 <br>
@@ -145,7 +145,7 @@ h<sub>c</sub> = 35.2 BTU/lb d'air sec <br>
 h<sub>a</sub> = 31.3 <br>
 h<sub>E</sub> = 27.4 <br>
 
-**Processus III**
+**Processus III** <br>
 40<sup>o</sup>F et 0.8 <br>
 GA/FA = 0.8 <br>
 GA = 0.8FA <br>
@@ -153,7 +153,7 @@ A-G = 0.8(A-F) <br>
 G = 80 - 0.8(80-40) = 48 <br>
 h<sub>G</sub> = 18.3 BTU/lb d'air sec
 
-**Processus IV**
+**Processus IV** <br>
 Jet d'eau 75<sup>o</sup>F et 0.8 <br>
 JA/HA = 0.8 <br>
 A - J = 0.8(A-H) <br>
@@ -176,25 +176,25 @@ W = Q/13.348 comme Q s'exprime en min et qu'on veut avoir W en h on aura: <br>
 W = 60Q/13.348 = 4.5Q <br>
 q = 4.5QCTD = 4.5Q*0.244*TD = 1.1QTD = 4.5Q&Delta;h <br>
 
-**Pour scenario 1 on a:**
+**Pour scenario 1 on a:** <br>
 q<sub>AB</sub> = 1.1*1000(100-80) = 22000 BTU/H <br>
 avec Q = 1000 CFM <br>
 q<sub>ac</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h <br>
 q<sub>AC</sub>/q<sub>AB</sub> = 17500/22000 = 0.8 <br>
 
-**Pour scenario 2 on a:**
+**Pour scenario 2 on a:** <br>
 q<sub>DA</sub> = 1.1*1000(80-60) = 22000 BTU/H <br>
 q<sub>EA</sub> = 4.5*1000(31.3-27.4) = 17500 BTU/H <br>
 q<sub>EA</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h <br>
 q<sub>EA</sub>/q<sub>DA</sub> = 0.8 <br>
 
-**Pour scenario 3 on a:**
+**Pour scenario 3 on a:** <br>
 quantité d'eau perdue = W*&Delta;W = 4.5Q&Delta;W <br>
 q<sub>H<sub>2</sub>O</sub> = 4.5*1000(0.011-0.0063) = 21.15 lb H<sub>2</sub>O/h <br>
 1 gallon d'eau = 8.34 lbs d'eau <br>
 21.15/8.34 = 2.53 gallons/h <br>
 
-**Pour scenario 4 on a:**
+**Pour scenario 4 on a:** <br>
 quantité d'eau = W*&Delta;W = 4.5Q&Delta;W <br>
 q<sub>H<sub>2</sub>O</sub> = 4.5*1000(0.0173-0.011) = 28.35 lbs H<sub>2</sub>O/h <br>
 28.35/8.34 = 3.4 gallons/h <br>
