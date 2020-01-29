@@ -160,8 +160,8 @@ A - J = 0.8(A-H) <br>
 J = A-0.8(A-H) = 80-0.8(80-75) = 76
 <img width="200" src="https://latex.codecogs.com/svg.latex?\color{white}\Large&space; W_{J} = 0.0173\frac{lb_{H_{2}O}}{lb_{air~sec}} " />
 
-**Notions de volumes**
-Q: volume instantané (CFM u<sup>3<>/sup>/min) <br>
+**Notions de volumes:** <br>
+Q: volume instantané (CFM &mu;<sup>3</sup>/min) <br>
 q = W*C*TD(variation de température) <br>
 &Delta;h = C*TD <br>
 q = W&Delta;h <br>
@@ -170,15 +170,14 @@ V: volume spécifique ou volume massique <br>
 W: Q/V <br>
  
 Air standard correspond à 70<sup>o</sup> F
-C = 0.244 BTU/lb <sup>o</sup>F
-v = 13.348 cuft / lb air sec
-W = Q/13.348 comme Q s'exprime en min et qu'on veut avoir W en h on aura
-W = 60Q/13.348 = 4.5Q
-q = 4.5QCTD = 4.5Q*0.244*TD
-q = 1.1QTD = 4.5Q&Delta;h
+C = 0.244 BTU/lb <sup>o</sup>F <br>
+v = 13.348 cuft/lb air sec <br>
+W = Q/13.348 comme Q s'exprime en min et qu'on veut avoir W en h on aura: <br>
+W = 60Q/13.348 = 4.5Q <br>
+q = 4.5QCTD = 4.5Q*0.244*TD = 1.1QTD = 4.5Q&Delta;h
 
-*Pour scenario 1 on a:*
-q<sub>AB</sub> = 1.1*1000(100-80) = 22000 BTU/H
-avec Q = 1000 CFM
-q<sub>ac</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h
-q<sub>AC</sub>/q<sub>AB</sub> = 17500/22000 = 0.8
+**Pour scenario 1 on a:**
+q<sub>AB</sub> = 1.1*1000(100-80) = 22000 BTU/H <br>
+avec Q = 1000 CFM <br>
+q<sub>ac</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h <br>
+q<sub>AC</sub>/q<sub>AB</sub> = 17500/22000 = 0.8 <br>
