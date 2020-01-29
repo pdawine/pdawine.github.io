@@ -174,10 +174,29 @@ C = 0.244 BTU/lb <sup>o</sup>F <br>
 v = 13.348 cuft/lb air sec <br>
 W = Q/13.348 comme Q s'exprime en min et qu'on veut avoir W en h on aura: <br>
 W = 60Q/13.348 = 4.5Q <br>
-q = 4.5QCTD = 4.5Q*0.244*TD = 1.1QTD = 4.5Q&Delta;h
+q = 4.5QCTD = 4.5Q*0.244*TD = 1.1QTD = 4.5Q&Delta;h <br>
 
 **Pour scenario 1 on a:**
 q<sub>AB</sub> = 1.1*1000(100-80) = 22000 BTU/H <br>
 avec Q = 1000 CFM <br>
 q<sub>ac</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h <br>
 q<sub>AC</sub>/q<sub>AB</sub> = 17500/22000 = 0.8 <br>
+
+**Pour scenario 2 on a:**
+q<sub>DA</sub> = 1.1*1000(80-60) = 22000 BTU/H <br>
+q<sub>EA</sub> = 4.5*1000(31.3-27.4) = 17500 BTU/H <br>
+q<sub>EA</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h <br>
+q<sub>EA</sub>/q<sub>DA</sub> = 0.8 <br>
+
+**Pour scenario 3 on a:**
+quantité d'eau perdue = W*&Delta;W = 4.5Q&Delta;W <br>
+q<sub>H<sub>2</sub>O</sub> = 4.5*1000(0.011-0.0063) = 21.15 lb H<sub>2</sub>O/h <br>
+1 gallon d'eau = 8.34 lbs d'eau <br>
+21.15/8.34 = 2.53 gallons/h <br>
+
+**Pour scenario 4 on a:**
+quantité d'eau = W*&Delta;W = 4.5Q&Delta;W <br>
+q<sub>H<sub>2</sub>O</sub> = 4.5*1000(0.0173-0.011) = 28.35 lbs H<sub>2</sub>O/h <br>
+28.35/8.34 = 3.4 gallons/h <br>
+
+
