@@ -165,11 +165,20 @@ Q: volume instantané (CFM u<sup>3<>/sup>/min) <br>
 q = W*C*TD(variation de température) <br>
 &Delta;h = C*TD <br>
 q = W&Delta;h <br>
-W= Q&Rho;   &Rho; = 1/V   v = Q/W <br>
+W= Q&rho;   &rho; = 1/V   V = Q/W <br>
 V: volume spécifique ou volume massique <br>
-W: Q&frac;V <br>
+W: Q/V <br>
  
+Air standard correspond à 70<sup>o</sup> F
+C = 0.244 BTU/lb <sup>o</sup>F
+v = 13.348 cuft / lb air sec
+W = Q/13.348 comme Q s'exprime en min et qu'on veut avoir W en h on aura
+W = 60Q/13.348 = 4.5Q
+q = 4.5QCTD = 4.5Q*0.244*TD
+q = 1.1QTD = 4.5Q&Delta;h
 
- 
- Air standard correspond à 70<sup>o</sup> F
- 
+*Pour scenario 1 on a:*
+q<sub>AB</sub> = 1.1*1000(100-80) = 22000 BTU/H
+avec Q = 1000 CFM
+q<sub>ac</sub> = 4.5*1000(35.2 - 31.3) = 17500 BTU/h
+q<sub>AC</sub>/q<sub>AB</sub> = 17500/22000 = 0.8
