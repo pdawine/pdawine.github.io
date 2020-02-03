@@ -16,65 +16,77 @@ Quand l'aération est-elle utilisée ? <br>
 • Aération de lac
 
 **Méthodes d'aération:**
-Aérateurs de surface:
+1. Aérateurs de surface:
 Les aérateurs de surface sont disponibles en version flottante ou fixe. Nos aérateurs, à entraînement direct, existent en vitesse 
 rapide ou en vitesse lente avec motoréducteur. Dans les traitements par boues activées, l'aération de surface, en particulier les 
 aérateurs rapides ont un rendement élevé en conditions réelles en raison de leur facteur alpha favorable. Il est donc largement 
-utilisé pour les processus biologiques de purification de l'eau et l'aération des plantes.
+utilisé pour les processus biologiques de purification de l'eau et l'aération des plantes. Ce système d'aération pompe l'eau du 
+bassin et transfère l'oxygène en utilisant le contact air-eau au moyen d'une gerbe projetée à la surface du bassin. C'est le système 
+d'aération idéal pour les étangs et les lacs. <br>
 
-Ce système d'aération pompe l'eau du bassin et transfère l'oxygène en utilisant le contact air-eau au moyen d'une gerbe projetée à la surface du bassin. C'est le système d'aération idéal pour les étangs et les lacs.
+2. Aérateurs rapides de surface :
+L'AER-AS est notre aérateur rapide de surface à entraînement direct qui peut être utilisé aussi bien pour les petits réservoirs que 
+pour les grandes lagunes. L'aérateur de surface flottant est constitué d'un moteur électrique monté sur un flotteur, qui entraîne 
+le SCREWPELLER® AQUA TURBO® notre hélice brevetée. Le moteur électrique est monté sur un support à bride, qui à son tour est monté 
+sur le flotteur en acier inoxydable. Un cône d’aspiration (éventuellement équipé de plaques transversales) est monté sous le flotteur 
+et permet une aspiration idéale dans les volutes de l’hélice. En standard, cet aérateur est construit en version flottante mais il 
+peut aussi être conçu comme une unité fixe pour être installé sur un ponton ou une passerelle.<br>
 
-Aérateurs rapides de surface :
-L'AER-AS est notre aérateur rapide de surface à entraînement direct qui peut être utilisé aussi bien pour les petits réservoirs que pour les grandes lagunes.
+3. Aérateurs lents de surface :
+L'AER-GD est notre aérateur lent de surface. En exécution standard, cette unité est conçue pour un montage fixe sur ponton ou 
+passerelle. L'aérateur de surface lent se compose généralement d’un motoréducteur robuste fixé sur une plaque de montage qui vient 
+s’adapter au GC et d’un roto à aubes de grand diamètre. L'aérateur lent peut également être conçu comme une unité flottante sur 
+tripode pour des installations de traitement à niveaux d'eau variables. <br>
 
-L'aérateur de surface flottant est constitué d'un moteur électrique monté sur un flotteur, qui entraîne le SCREWPELLER® AQUA TURBO® notre hélice brevetée. Le moteur électrique est monté sur un support à bride, qui à son tour est monté sur le flotteur en acier inoxydable. Un cône d’aspiration (éventuellement équipé de plaques transversales) est monté sous le flotteur et permet une aspiration idéale dans les volutes de l’hélice.
+4. Aérateurs immergés :
+Les aérateurs immergés sont surtout utilisés pour les petits bassins profonds ; ils apportent de l'air et de l'oxygène directement 
+en profondeur où ils améliorerent la qualité globale de l'eau. Au fur et à mesure que les bulles montent, elles transportent l'eau 
+pauvre en oxygène du fond vers la surface, où elle se mélange à l'eau de surface riche en oxygène avant de redescendre vers le fond. 
+Le mélange vertical continu permet d'augmenter la concentration d'oxygène dissous dans l'ensemble du plan d'eau. <br>
 
-En standard, cet aérateur est construit en version flottante mais il peut aussi être conçu comme une unité fixe pour être installé sur un ponton ou une passerelle.
-
-Aérateurs lents de surface :
-L'AER-GD est notre aérateur lent de surface. En exécution standard, cette unité est conçue pour un montage fixe sur ponton ou passerelle.
-
-L'aérateur de surface lent se compose généralement d’un motoréducteur robuste fixé sur une plaque de montage qui vient s’adapter au GC et d’un roto à aubes de grand diamètre.
-
-L'aérateur lent peut également être conçu comme une unité flottante sur tripode pour des installations de traitement à niveaux d'eau variables.
-
-
-Aérateurs immergés :
-Les aérateurs immergés sont surtout utilisés pour les petits bassins profonds ; ils apportent de l'air et de l'oxygène directement en profondeur où ils améliorerent la qualité globale de l'eau.
-
-Au fur et à mesure que les bulles montent, elles transportent l'eau pauvre en oxygène du fond vers la surface, où elle se mélange à l'eau de surface riche en oxygène avant de redescendre vers le fond. Le mélange vertical continu permet d'augmenter la concentration d'oxygène dissous dans l'ensemble du plan d'eau.
-
-Aérateurs de fond avec moteur immergé :
+5. Aérateurs de fond avec moteur immergé :
 L'AER-SB(/L), est notre aérateur de fond immergé à entraînement direct et vitesse rapide. Il est idéal pour les bassins profonds.
+Cet aérateur immergé se compose d'un moteur électrique submersible monté sur le dessus, qui entraîne directement une turbine située 
+à l'intérieur d'une chambre d'aspiration d'air qui arrive par le dessous. L’effluent quant à lui est aspiré par le dessus. 
+La diffusion du mélange air/eau est assurée par des canaux latéraux avec ou sans rallonges. <br>
 
-Cet aérateur immergé se compose d'un moteur électrique submersible monté sur le dessus, qui entraîne directement une turbine située à l'intérieur d'une chambre d'aspiration d'air qui arrive par le dessous. L’effluent quant à lui est aspiré par le dessus. La diffusion du mélange air/eau est assurée par des canaux latéraux avec ou sans rallonges.
-
-L'AER-GS immergé est un aérateur de fond lent qui se compose d'un réducteur immergé robuste avec un moteur électrique submersible monté en position supérieure d’un rotor conique. L’ensemble est monté dans une structure métallique qui permet à l'unité de tenir sur le sol sans autres supports.
-
-L'AER-GS peut également être conçu avec un arbre long et un motoréducteur installé sur un ponton ou une passerelle.
+L'AER-GS immergé est un aérateur de fond lent qui se compose d'un réducteur immergé robuste avec un moteur électrique submersible 
+monté en position supérieure d’un rotor conique. L’ensemble est monté dans une structure métallique qui permet à l'unité de tenir 
+sur le sol sans autres supports. L'AER-GS peut également être conçu avec un arbre long et un motoréducteur installé sur un ponton 
+ou une passerelle. <br>
 
 L'aérateur immergé AER-SL est un aérateur rapide à entraînement direct généralement installé sur un rail de guidage sur le côté du bassin. L'AER-SL crée un courant directionnel.
 Il se compose d'un moteur submersible qui entraîne notre hélice SCREWPELLER® AQUA TURBO® brevetée, partiellement logée à l'intérieur d'une chambre à vide qui aspire l’air par un tuyau d'aspiration. L’AER SL est généralement fixé sur un chariot, qui coulisse le long d'une barre de guidage verticale. De ce fait, il peut être positionné à la profondeur voulue.
 
-systèmes d'aération
-Temps de lecture : 90 minutes
+**Systèmes d'aération**
 critères d’efficacité et comparaison des systèmes d’aération
 Les systèmes d’aération équipant un bassin à boues activées ont un double but :
 
-apporter aux micro-organismes aérobies l’oxygène, généralement emprunté à l’air, dont ils ont besoin ;
-induire une homogénéisation et un brassage suffisants de façon à assurer un contact intime entre le milieu vivant, les éléments polluants et l’eau ainsi oxygénée.
-Ces systèmes sont constitués le plus souvent d’un appareil ou d’un ensemble d’appareils placés dans un bassin de volume et de forme déterminés, réalisant simultanément ces deux fonctions.
+- apporter aux micro-organismes aérobies l’oxygène, généralement emprunté à l’air, dont ils ont besoin ;
+- induire une homogénéisation et un brassage suffisants de façon à assurer un contact intime entre le milieu vivant, les éléments 
+polluants et l’eau ainsi oxygénée. Ces systèmes sont constitués le plus souvent d’un appareil ou d’un ensemble d’appareils placés 
+dans un bassin de volume et de forme déterminés, réalisant simultanément ces deux fonctions. <br>
 
-Dans certains cas, les deux fonctions d’aération et de brassage sont indépendantes. Dans ce cas, on parle de système d’aération - brassage dissocié, dans lequel un mélangeur mécanique assure l’homogénéité du bassin en complément ou à la place de l’aérateur.
+Dans certains cas, les deux fonctions d’aération et de brassage sont indépendantes. Dans ce cas, on parle de système 
+d’aération - brassage dissocié, dans lequel un mélangeur mécanique assure l’homogénéité du bassin en complément ou à la place de 
+l’aérateur.<br>
 
-capacité d’oxygénation
-Pour être exacte, la capacité d’oxygénation du système devrait être établie et contrôlée dans les conditions effectives d’utilisation, en présence de boues activées et avec un flux de pollution entrant. Toutefois, les mesures dans ces conditions sont très délicates à mettre en œuvre en particulier à cause de l’activité biolo­gique et de la représentativité des points de mesure. C’est pourquoi l’efficacité d’un système est générale­ment évaluée en eau claire (voir norme EN 12255-15). La marge d’erreur se réduit ainsi de ± 5 % à ± 10 % suivant la configuration du bassin. Les mesures sont ensuite rapportées aux conditions standard, c’est-à-dire :
+**capacité d’oxygénation**
+Pour être exacte, la capacité d’oxygénation du système devrait être établie et contrôlée dans les conditions effectives d’utilisation, 
+en présence de boues activées et avec un flux de pollution entrant. Toutefois, les mesures dans ces conditions sont très délicates à 
+mettre en œuvre en particulier à cause de l’activité biolo­gique et de la représentativité des points de mesure. 
+C’est pourquoi l’efficacité d’un système est générale­ment évaluée en eau claire (voir norme EN 12255-15). 
+La marge d’erreur se réduit ainsi de ± 5 % à ± 10 % suivant la configuration du bassin. Les mesures sont ensuite rapportées aux 
+conditions standard, c’est-à-dire :
 
-en eau propre ;
-à la température de 20 °C ;
-à la pression atmosphérique normale de 1 013 mbar (pression à altitude nulle);
-à une teneur en oxygène dissous constante de 0 mg · L–1.
-La méthode de mesure quasi généralisée est la ré-oxygénation du bassin. L’eau claire est préalablement désoxygénée par un excès de sulfite de sodium (Na2SO3) en présence de cobalt (catalyseur). Le système d’aération est ensuite mis en fonctionnement et la concentration en oxygène est relevée périodiquement. En procédant avec un fonctionnement figé de l’aération, la remontée de la concentration en O2 suit la loi (voir prétraitements).
+- en eau propre ;
+- à la température de 20 °C ;
+- à la pression atmosphérique normale de 1 013 mbar (pression à altitude nulle);
+- à une teneur en oxygène dissous constante de 0 mg · L–1.
+- La méthode de mesure quasi généralisée est la ré-oxygénation du bassin. L’eau claire est préalablement désoxygénée par 
+un excès de sulfite de sodium (Na2SO3) en présence de cobalt (catalyseur). Le système d’aération est ensuite mis en fonctionnement 
+et la concentration en oxygène est relevée périodiquement. En procédant avec un fonctionnement figé de l’aération, la remontée de 
+la concentration en O2 suit la loi (voir prétraitements). <br>
 
 Formule : systèmes aération - capacité d'oxygénation - réoxygénation
 Avec :
