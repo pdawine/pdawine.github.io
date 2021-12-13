@@ -11,15 +11,15 @@ highlighter: true
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
+relative_permalinks: true
 
 # Setup
 title:            Dawine Pierre
 tagline:          'Rural & Software Engineer, Data Scientist, GIS Specialist'
 description:      'Rural & Software Engineer, Data Scientist, GIS Specialist'
-url:              https://pdawine.github.io/
+url:               https://pdawine.github.io/
 # baseurl:          /pdawine.github.io/
-baseurl:          /pdawine.github.io/
+baseurl:          /
 
 author:
   name:           'Dawine Pierre'
