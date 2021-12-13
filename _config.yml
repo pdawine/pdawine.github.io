@@ -17,7 +17,7 @@ relative_permalinks: true
 title:            Dawine Pierre
 tagline:          'Rural & Software Engineer, Data Scientist, GIS Specialist'
 description:      'Rural & Software Engineer, Data Scientist, GIS Specialist'
-url:               https://pdawine.github.io/
+url:               http://dawine.info
 # baseurl:          /pdawine.github.io/
 baseurl:          /
 
