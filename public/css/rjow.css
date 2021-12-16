@@ -7,8 +7,11 @@ body {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
+/*
   color: #dfdfdf;
-}
+*/
+  color: #dfdfdf;
+  }
 
 /* Quotes */
 blockquote {
@@ -36,17 +39,11 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-.content {
-  padding-top:    2rem;
-  padding-bottom: 4rem;
-}
-
 /* Blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
   color: #fc0;
-  margin-top: 2rem;
 }
 
 /* Jekyll yellow */
@@ -70,7 +67,7 @@ tbody tr:nth-child(odd) th {
 /* Sidebar links */
 .sidebar a {
   /* color: #333; */
-  color: #271DA9;
+  color: #FABF29;
 }
 
 /* About section */
